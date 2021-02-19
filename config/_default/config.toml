@@ -120,3 +120,7 @@ math = true
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+    
+# Use sitemap plugin on netlify
+[[plugins]]
+package = "@netlify/plugin-sitemap"    
