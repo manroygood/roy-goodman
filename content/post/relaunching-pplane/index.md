@@ -36,6 +36,8 @@ I have written a new front end and made _many, many_ fixes to the old MATLAB pro
 
 I've also created a simple launcher packaged as a *MATLAB App*, so all a student needs to do is click a button.
 
+If you just want to download and run them, follow [these instructions]({{< relref "../../courses/math222/matlabinformation/option1/_index.md " >}}).
+
 They have lots of nice features: 
 
 * drawing level sets
