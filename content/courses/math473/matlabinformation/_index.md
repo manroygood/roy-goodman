@@ -31,11 +31,8 @@ In Assignments 1 & 4
 
 * One part where you must graph a *direction field* (MATLAB Assignment 1, Textbook §1.1) or a *phase plane* (Assignment 4, Textbook §7.5). This is not built into MATLAB, so you'll have to install some additional software.
   * [Option 1](option1) Add-on software for MATLAB.
-     * __Pro:__ Uses MATLAB.
-     * __Con:__ Can't vary parameters, output kind of ugly.
-  * [Option 2](option2) Freestanding JAVA programs.
-     * __Pro:__ Can vary parameters
-     * __Con:__ Requires you to have or download Java Runtime Environment (JRE). The output is kind of ugly. JAVA is a dying technology.
-  * [Option 3](option3) Slopes app for iPhone/iPad. Android version now available, with fewer features but enough to do the assignments.
-     * __Pro:__ Can vary parameters. Output is gorgeous.
+     * __Pro:__ Uses MATLAB. Easy to install.
+     * __Con:__ Not as pretty as Slopes.
+  * [Option 2](option2) Slopes app for iPhone/iPad. Android version now available, with fewer features but enough to do the assignments.
+     * __Pro:__ Output is gorgeous.
      * __Con:__ I really want you to learn MATLAB.
