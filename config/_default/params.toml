@@ -104,7 +104,7 @@ directions = "624 Cullimore Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 4:00-5:30", "Thurssday 10:30-12:00"]
+office_hours = ["Tuesday 4:00-5:30", "Thursday 10:30-12:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -114,7 +114,7 @@ office_hours = ["Tuesday 4:00-5:30", "Thurssday 10:30-12:00"]
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/manroygood"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:royboygoodman?call"},
-  {icon = "headset", icon_pack = "fas", name = "WebEx Room", link = "https://njit.webex.com/meet/goodman"},  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "headset", icon_pack = "fas", name = "WebEx Room", link = "https://njit.webex.com/meet/goodman"}, 
   ]
 
 ############################
@@ -229,11 +229,7 @@ plugins_css = []
 ## Search
 ############################
 [search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "algolia"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -261,7 +257,7 @@ plugins_css = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
@@ -269,6 +265,7 @@ plugins_css = []
 ## Marketing
 ############################
 [marketing]
+  google_site_verification = ""
   google_analytics = ""
   google_tag_manager = ""
 
