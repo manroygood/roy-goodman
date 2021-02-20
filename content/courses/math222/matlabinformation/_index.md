@@ -12,7 +12,7 @@ weight: 100
 
 ##Downloading
 
-MATLAB is available in most campus computer labs or for downloading to your personal computer, following the instructions on the [IST Software Downloads page](https://ist.njit.edu/software-available-download#m). An in-broswer version of MATLAB is also available at [MATLAB Online](https://matlab.mathworks.com) and won't require you to download it. (Warning: I have not tried to use the add-on software for assignments 2 & 4 in the online version.) Either option will require you to create a MATLAB account with your NJIT email address.
+MATLAB is available in most campus computer labs or for downloading to your personal computer, following the instructions on the [IST Software Downloads page](https://ist.njit.edu/software-available-download#m). An in-broswer version of MATLAB is also available at [MATLAB Online](https://matlab.mathworks.com) and won't require you to download it. Either option will require you to create a MATLAB account with your NJIT email address.
 
 ## Learning to use MATLAB
 
