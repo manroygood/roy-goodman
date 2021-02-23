@@ -229,15 +229,15 @@ plugins_css = []
 ## Search
 ############################
 [search]
-  provider = "algolia"
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+  # [search.algolia]
+  #   app_id = ""
+  #   api_key = ""
+  #   index_name = ""
+  #   show_logo = false
 
 ############################
 ## Maps
