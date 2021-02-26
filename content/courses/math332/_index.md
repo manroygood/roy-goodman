@@ -1,25 +1,22 @@
 ---
 # Course title, summary, and position.
-linktitle: Math 332-002 Complex Variables
-summary: Tuesday, Friday 2:30-3:50 Tiernan 111 
-weight: 1
+linktitle: Math 332
+summary: Spring 2020
+weight: 332
 
 # Page metadata.
-title:  NJIT Math 332 Spring 2020
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+title: Math 332 Complex Variables
+date: "2020-12-07T00:00:00Z"
+lastmod: "2020-12-07T00:00:00Z"
+draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  math332:
-    name: Math 332
-    weight: 1
+tags: 
+- previous
 ---
+
+
+
 ## General Information
 * [Syllabus](https://m.njit.edu/Undergraduate/Course_Syllabi/Spring2020/Math_332-002-SP20.pdf)
 * [Course Canvas Page](https://njit.instructure.com/courses/9868)
@@ -61,7 +58,7 @@ __Last Revised: 4/29/2020__ Check back, will be updated over the semester.
 11. Calculate the following, expressing the result in polar/exponential form, $z=r e^{i \theta} ;$ use the polar/exponential/Euler form for all intermediate steps:  
    (a) $z=-8 \pi(1+i \sqrt{3})$  
    (b) $z=(1-i)(-\sqrt{3}+i)$  
-  (c) $z=\frac{-1+i \sqrt{3}}{2+2 i}$
+    (c) $z=\frac{-1+i \sqrt{3}}{2+2 i}$
 
 12. Calculate the following, expressing the result in Cartesian form, $z=x+i y ;$ use the polar, aka exponential, aka Euler form for all intermediate steps:  
    (a) $z=i e^{i} e^{3 i \pi / 2}$  
@@ -246,7 +243,7 @@ under the mapping $w=f(z)=2+i \bar{z}^{2} .$ Use polar representation, and think
 {{< figure src="indentedContour.png" title="Indented contour." lightbox="true" >}}
 
 58. Here's another type of contour that is often useful. Use it to integrate
-$$ 
+$$
 \mathrm{P.V.} \int_{-\infty}^{\infty} \frac{e^{\alpha x}}{1+e^x} dx = \frac{\pi}{\sin{\alpha\pi}}; \\, 0<\alpha<\pi.
 $$
 Some things to think about here:

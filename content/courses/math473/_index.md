@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: Math 473 
-summary: Tuesday, Friday 2:30-3:50
-weight: 20
+summary: Fall 2020
+weight: 473
 
 # Page metadata.
 title: Math 473 Intermediate Differential Equations
@@ -11,7 +11,8 @@ lastmod: "2020-12-07T00:00:00Z"
 draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
-tag: previous
+tags: 
+- previous
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.

@@ -1,24 +1,18 @@
 ---
 # Course title, summary, and position.
-linktitle: Math 451H Capstone
-summary: Some experiments I ran with students in the Capstone Lab
-weight: 10
+linktitle: Math 450H & Math 451H
+summary: Spring 2005, Spring 2006, Spring 2010, Fall 2012, Spring 2013
+weight: 450
 
 # Page metadata.
-title:  Math 451H Capstone
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+title: Math 450H & Math 451H Capstone 1 & 2
+date: "2020-12-07T00:00:00Z"
+lastmod: "2020-12-07T00:00:00Z"
+draft: true # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  capstone:
-    name: Capstone
-    weight: 1
+tags: 
+- previous
 ---
 The [NJIT Applied Math Capstone class](http://cfsm.njit.edu/capstone/index.php) is a two-semester class for graduating seniors that integrates mathematical modeling, analysis, and simulation with laboratory experiments
 
