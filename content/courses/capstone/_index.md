@@ -8,7 +8,7 @@ weight: 450
 title: Math 450H & Math 451H Capstone 1 & 2
 date: "2020-12-07T00:00:00Z"
 lastmod: "2020-12-07T00:00:00Z"
-draft: true # Is this a draft? true/false
+draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 

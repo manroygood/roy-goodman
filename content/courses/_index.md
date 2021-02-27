@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Courses
 type: page
 #layout: book  # Do not modify.
 

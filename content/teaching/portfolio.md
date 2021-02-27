@@ -1,10 +1,9 @@
 ---
 widget: portfolio
-headless: false
-active: false
+headless: true
+active: true
 weight: 100
-title: Courses
-draft: true
+title: Teaching
 subtitle:
 content:
   page_type: courses
