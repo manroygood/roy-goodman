@@ -36,7 +36,7 @@ I have written a new front end and made _many, many_ fixes to the old MATLAB pro
 
 I've also created a simple launcher packaged as a *MATLAB App*, so all a student needs to do is click a button.
 
-If you just want to download and run them, follow [these instructions]({{< relref "../../courses/math222/matlabinformation/option1/_index.md " >}}).
+If you just want to download and run them, follow [these instructions]({{< relref "../../courses/math222/matlabinformation/option1/_index.md " >}}). The best place to download them is the [Mathworks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/86937-matdfpp).
 
 They have lots of nice features: 
 
@@ -47,7 +47,7 @@ They have lots of nice features:
 
 These programs were originally copyrighted by John Polking between 1995 and 2003. The textbook *Ordinary Differential Equations Using MATLAB*, 3rd edition, contains a manual for the programs, but they are pretty self-explanatory.
 
-The codes were last properly updated in 2003 for MATLAB 6.5. The MATLAB File Exchange contains many submissions that mostly get the codes running again, but none that systematically attempted to fix _al_l the broken components. 
+The codes were last properly updated in 2003 for MATLAB 6.5. The MATLAB File Exchange contains many submissions that got the codes running again on some release or other, but none that systematically attempted to fix _al_l the broken components. 
 
 I have tried to fix all the errors but have not managed to fix everything. I have examined every warning produced by the Code Compatibility Report and the Code Analyzer Report features in MATLAB. I have been able to fix almost all of these. Where I could not, I suppressed the warning and left a comment. Most of the remaining warnings are due to arrays that change size over iterations, and there's not much to do about them. Many came from an overuse of the `eval` and `feval` commands, which I have replaced by more modern coding constructs.
 
@@ -64,7 +64,7 @@ Under the hood, the program is a mess. *There is a lot I would like to fix, but 
 * Each program (pplane & dfield) uses a structure where each callback, instead of being a separate function, is given by a recursive call to the main program (matdfield) or (matpplane), determined by a very long `if-then-else` structure. I have tried breaking out the contents of individual `elseif` blocks into separate functions, in their own m-files. This has generally led to strange and hard-to-trace errors, so I abandoned the effort. This structure makes understanding the scope of variables very challenging.
 * The function of each `elseif` block is rarely documented, although I added some documentation in my attempt to understand what each does.
 * A lot of code is dedicated to fiddling with window dimensions and similar display issues. The variable names used to do this are not self-explanatory and contain lots of magic numbers.
-* A lot of code is dedicated to string manipulation. Either this was written before MATLAB added straightforward string-handling features, or else the authors didn't know about these features. To be fair, the original programs were written before Google existed(!), so discovering MATLAB functionality would have involved searching in books!
+* A lot of code is dedicated to string manipulation. Either this was written before MATLAB added straightforward string-handling features, or else the authors didn't know about these features. To be fair, _the original programs were written before Google existed(!)_, so discovering MATLAB functionality would have involved searching in books!
 * There are a lot of calls to `eval` and `feval` which leads to hard-to-decipher codes. I have corrected this in the cases where such constructions confused the Code Analyzer.
 
 Nonetheless, there are a lot of simple cleanups that might make this more maintainable, including lots of repeated code that should be moved to separate m-files and made into functions. I will continue to maintain this code and make sure that it remains compatible with future MATLAB releases. If anyone would like to help out, or finds an error they'd like to fix, the code will be available at https://github.com/manroygood. Any other bugs you find, please let me know.
