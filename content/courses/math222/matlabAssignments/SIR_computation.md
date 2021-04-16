@@ -12,7 +12,7 @@ weight: 240
 ---
 
 __NJIT Math 222, Spring 2021__  
-__Due Friday, April 23__
+__Due Friday, April 30__
 
 This is the second part of a two-part assignment.
 
@@ -31,7 +31,7 @@ $$ R_0 = \frac{\beta N}{\gamma}.$$ Check this formula by simulating the model fo
 
 ## Part 2
 
-Phase portraits (or phase diagrams) provide a powerful tool to visualize the dynamics of ODE systems. You have been given the option of [three easy-to-use programs](../../matlabinformation) that make drawing  phase portraits very simple. In this section, use whichever of these you find convenient.
+Phase portraits (or phase diagrams) provide a powerful tool to visualize the dynamics of ODE systems. You have been given the option of [two easy-to-use programs](../../matlabinformation) that make drawing  phase portraits very simple. In this section, use whichever of these you find convenient.
 
 Notice that the basic SIR model can be reduced to a two-dimensional system, because the variable $R(t)$ for recovered individuals does not appear in the evolution equations fir the other two variables. The reduced $(S,I)$ system is thus the following:
 $$

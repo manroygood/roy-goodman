@@ -72,8 +72,8 @@ Several assumptions go into this model:
 6. Read [this article](https://www.statnews.com/2020/12/14/portrait-of-the-coronavirus-at-1/). It contains a lot of details about how Covid-19 spreads. Some of these would be quite difficult to add to a model. Identify one or more and state why you think they'd be hard to model.
 
 ---
-For more information, see this nice article[^2]. [+plus Magazine](https://plus.maths.org/content/tags/covid-19) has a nice collection of undergraduate-level articles on mathematics useful in understanding various aspects the COVID-19 pandemic. Another good resource comes from the [American Mathematical Society](http://www.ams.org/home/covid-19), see under the _Mathematical Modeling_ subheading.
+For more information, see this nice article[^2]. [+plus Magazine](https://plus.maths.org/content/tags/covid-19) has a large collection of undergraduate-level articles on mathematics useful in understanding various aspects the COVID-19 pandemic. Another good resource comes from the [American Mathematical Society](http://www.ams.org/home/covid-19), see under the _Mathematical Modeling_ subheading.
 
-[^1]: Kermack, W. O. and McKendrick, A.G. (1927) [Contribution to the matimatical theory of epidemics--1.](https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118), _Proc. Roy. Soc._ __115A__, 700.
+[^1]: Kermack, W. O. and McKendrick, A.G. (1927) [Contribution to the mathematical theory of epidemics--1.](https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118), _Proc. Roy. Soc._ __115A__, 700.
 
-[^2]: Keeling, M. (2001) [The Mathematics of Diseases](https://plus.maths.org/content/os/issue14/features/diseases/index), +plus magazine
+[^2]: Keeling, M. (2001) [The Mathematics of Diseases](https://plus.maths.org/content/os/issue14/features/diseases/index), +plus magazine.
