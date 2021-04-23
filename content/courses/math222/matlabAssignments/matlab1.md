@@ -14,7 +14,7 @@ __NJIT Math 222, Spring 2021__
 
 __Due Friday, February 5__
 
-For this assignment, you need to use one of the three add-on options listed to the left. An overview of the advantages/disadvantages of each is [here](../../matlabinformation).
+For this assignment, you need to use one of the two add-on options listed to the left. An overview of the advantages/disadvantages of each is [here](../../matlabinformation).
 
 ### Problem 1
 

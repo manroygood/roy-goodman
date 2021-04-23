@@ -23,7 +23,7 @@ $$
 y(0) = a; \, y(L)&= b.
 \end{aligned}
 $$
-Let's further suppose that we have a fundamental set of solutions to the ordinary differential equation $\{y_1(x),y_2(x)\}$. We know that the general solution is thus given by
+We further suppose that we have a fundamental set of solutions to the ordinary differential equation $\{y_1(x),y_2(x)\}$. We know that the general solution is thus given by
 $$
 y(x)= c_1 y_1(x) + c_2 y_2(x).
 $$
@@ -53,19 +53,20 @@ c_1 \\\\ c_2
 $$
 Let the $2\times2$ matrix on the left be denoted by $M$. We know such an has a unique solution as long as $\det{M}\neq0$. Just as in equation $(11)$ on page 112 of Boyce, the this determinant appears in the denominator of the the solution formulas for $c_1$ and $c_2$ so may not vanish unless $\alpha=\beta=0$.
 
-Let's see how this works in practice:
+How does this works in practice?
 
-_Example 1_
+__Example 1__
 $$
 \begin{aligned}
 \frac{d^2 y}{dx^2}(x)+\frac{1}{4}y(x) & = 0;  0<x<\pi \\\\
 y(0) =1 ; y(\pi)&=1.
 \end{aligned}
 $$
-This has general solutions $y_1=\cos{\frac{x}{2}}$, $y_2=\sin{\frac{x}{2}}$. For this problem the matrix $M$ is just the identity matrix $M = \begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}$. Therefore the solution is $c_1=1$, $c_2=1$.
+This has general solutions $y_1=\cos{\frac{x}{2}}$, $y_2=\sin{\frac{x}{2}}$. For this problem the matrix $M$ is just the identity matrix $M = \left(\begin{smallmatrix} 1 & 0 \\\\ 0 & 1  \end{smallmatrix} \right)$. Therefore the solution is $c_1=1$, $c_2=1$.
 
-_Example 2_
-Consider the same problem but let it be defined instead on the interval $0<x<2\pi$. In this case the matrix is $M = \begin{pmatrix} 1 & -1 \\\\ 0 & 0 \end{pmatrix}$. This problem is not solvable.
+__Example 2__
+
+Consider the same problem but let it be defined instead on the interval $0<x<2\pi$. In this case the matrix is $M = \left(\begin{smallmatrix} 1 & 0 \\\\ -1 & 0 \end{smallmatrix}\right)$. This problem is not solvable.
 
 _Can you see why the first example works but the second example fails?_ The solution $y_2$ is zero at both endpoints in the second example, so multiplying it by a constant $c_2$ doesn't change the boundary values!
 
@@ -76,7 +77,7 @@ Constant coefficient inhomogeneous second order equations can be solved by the m
 Recall that these problems take the forms
 $$
 \begin{gathered}
-a \frac{d^2 y}{dx^2}(x)+ b \frac{dy}{dx}(x) + c y(x) = g(x); \; 0<x<L \\\\
+a \frac{d^2 y}{dx^2}(x)+ b \frac{dy}{dx}(x) + c y(x) = g(x); \  0<x<L \\\\
 y(0)=\alpha;  y(L)= \beta.
 \end{gathered}
 $$
@@ -113,10 +114,10 @@ and the solvability of this system depends on whether the matrix on the left-han
 
 ##### Example
 
-Let's solve the same problem but with a nonhomogeneous term:
+Now we solve the same problem but with a nonhomogeneous term:
 $$
 \begin{gathered}
-\frac{d^2 y}{dx^2}(x)+\frac{1}{4}y(x)  = x+1; 0<x<\pi \\\\
+\frac{d^2 y}{dx^2}(x)+\frac{1}{4}y(x)  = x+1; \ 0<x<\pi \\\\
 y(0) =1 ; y(\pi)=1.
 \end{gathered}
 $$
@@ -141,8 +142,8 @@ The undetermined coefficient method only works for constant coefficient problems
 Consider the inhomogeneous boundary value problem (BVP)
 $$
 \begin{aligned}
-\frac{d^2 y}{dx^2}(x)+p(x)\frac{dy}{dx}(x)+q(x)y(x)&=g(x); 0<x<L; \\\\
-y(0) = \alpha;  y(L)&= \beta.
+\frac{d^2 y}{dx^2}(x)+p(x)\frac{dy}{dx}(x)+q(x)y(x)&=g(x);\  0<x<L; \\\\
+y(0) = \alpha; \  y(L)&= \beta.
 \end{aligned}
 $$
 Recall that the variation of parameters method shows that the general solution to this problem is
@@ -196,8 +197,8 @@ In the above problem, our boundary conditions depended on the values of the func
 1. Solve
 $$
 \begin{gathered}
-\frac{d^2 y}{dx^2} + 4 \frac{dy}{dx} + 3 y = 0,  0<x<1 \\\\
-y(0)= 1 \\\\
+\frac{d^2 y}{dx^2} + 4 \frac{dy}{dx} + 3 y = 0,  0<x<1; \\\\
+y(0)= 1 ; \ 
 y(1)= 2
 \end{gathered}
 $$
@@ -206,7 +207,7 @@ $$
 $$
 \begin{gathered}
 \frac{d^2 y}{dx^2} +  y  = x^2,  0<x<1 \\\\
-y(0)= 1 \\\\
+y(0)= 1 ; \ 
 y(1)= 2
 \end{gathered}
 $$
@@ -221,15 +222,14 @@ c& d\end{pmatrix}^{-1}
 d & -b \\\\ 
 -c& a\end{pmatrix},
 $$
-
 assuming that this determinant is non-zero.
 
 1. Consider this last example again, except place the right-hand boundary condition at a point $x=L$ rather than $x=1$. For which values of $L$ does the problem have a unique solution?
-1. Here's one that requires the variation of parameters method:
+1. Here is one that requires the variation of parameters method:
 $$
 \begin{gathered}
  2 x^2 \frac{d^2 y}{dx^2} + 3x \frac{dy}{dx} -y = x, 1<x<4 \\\\
- y(1)=5; y(4) = 4.
+ y(1)=5; \  y(4) = 4.
 \end{gathered}
 $$
 To get you started, note that the two homogeneous solutions are $y_1 = x^{-1}$ and $y_2 = \sqrt{x}$.
