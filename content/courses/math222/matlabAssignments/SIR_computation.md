@@ -14,6 +14,10 @@ weight: 240
 __NJIT Math 222, Spring 2021__  
 __Due Friday, April 30__
 
+{{% callout warning %}}
+There is a bug in the software used to typeset mathematics in this webpage. :frowning_face: Some equations may appear cut off or obstructed by white boxes. Changing the size of the browser window, or adjusting the font size in the browser, usually alleviates this. 
+{{% /callout %}}
+
 This is the second part of a two-part assignment.
 
 ## Part 1
@@ -40,7 +44,7 @@ $$
 \frac{\mathrm{d}}{\mathrm{d}t} I & = \beta S I - \gamma I
 \end{aligned}
 $$
-and can be plotted in a 2D $S$-$I$ phase diagram without loss of information. For a fixed set of parameters, draw a phase portrait with trajectories corresponding to different initial conditions. Observe how the course of the epidemic depends on the initial conditions. Draw trajectories for different values of $N$. For each simulation, identify the maximum value of $I$, and draw the point on the phase diagram. 
+and can be plotted in a 2D $S$-$I$ phase diagram without loss of information. For a fixed set of parameters, draw a phase portrait with trajectories corresponding to different initial conditions. Observe how the course of the epidemic depends on the initial conditions. Draw trajectories for different values of $N$. For each simulation, identify the maximum value of $I$, and draw the point on the phase diagram. 
 
 It is possible to determine analytically the value of $S$ for which the epidemic reaches its peak. Using $R_0$, we find  $S_{I \rm{\ is\ max}} = \frac{\gamma}{\beta}$. Plot these values on your phase diagram, and compare them to the points you obtained previously. Interpret the result. In particular, what
 happens when $S_0 \le \gamma/\beta$?
