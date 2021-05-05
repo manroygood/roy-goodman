@@ -4,15 +4,15 @@ linktitle: Lab 4 Answer
 toc: true
 type: book
 date: "2021-01-06"
-draft: 	true
+draft: 	false
 weight: 245
 ---
 
-__NJIT Math 222, Fall 2020__  
+__NJIT Math 222, Spring 2021__  
 
 __Fourth MATLAB Assignment__
 
-__Due April 23__ 
+__Due April 30__ 
 
 
 
