@@ -73,16 +73,19 @@ y(0) =  y(\pi) = 0
 $$
 Once again, we find the eigenfunctions are $y_n = \sin{nx}$, but the eigenvalues are $\lambda_n = c-n^2$. Plugging in the same expansion as before, we now find that
 $$
--\frac{c-m^2}{2} c_m = \int_0^\pi f(x) \sin{mx} \ dx
+\left(c-n^2\right) c_n = \frac{2}{\pi}\int_0^\pi f(x) \sin{mx} \ dx
 $$
 So if $c=m^2$ for any integer $m$, this equation clearly has no solution. However, as long as this condition is not satisfied, we can solve for the coefficients:
 $$
- c_n = \frac{2}{c-n^2}\int_0^\pi f(x) \sin{nx} \ dx.
+c_n = \frac{2}{\pi \left(c-n^2\right)}\int_0^\pi f(x) \sin{nx} \ dx.
 $$
 Note that if $c=n^2$ for any positive integer $n$ then the problem has no solution (at least not in the form of a Fourier sine series).
 
 ## Exercises
 
 1. Find the Fourier sine-coefficients if we use $f(x)=x$ and $c=-1$ in Example 2. Find the exact solution using the method of undetermined coefficients. Suppose $c=+1$. Then the problem can't be solved unless $b_1=0$. Why not?
-
 1. Modify the above examples to satisfy Neumann boundary conditions, $y'(0)=y'(\pi)=0$. This will give a Fourier cosine series, and will correspond to an even extension. You will find that Example 1 does not yield a solvable problem unless the term $a_0=0$.
+
+## Solutions to Exercises
+
+:memo: {{% staticref "math222/solution10p1.pdf" %}} My solution (pdf). {{% /staticref %}} 
