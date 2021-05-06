@@ -233,3 +233,11 @@ $$
 \end{gathered}
 $$
 To get you started, note that the two homogeneous solutions are $y_1 = x^{-1}$ and $y_2 = \sqrt{x}$.
+
+
+
+**## Solutions to Exercises**
+
+
+
+:memo: {{% staticref "math222/solution10p1.pdf" %}} My solution (pdf). {{% /staticref %}} 

@@ -88,4 +88,4 @@ Note that if $c=n^2$ for any positive integer $n$ then the problem has no soluti
 
 ## Solutions to Exercises
 
-:memo: {{% staticref "math222/solution10p1.pdf" %}} My solution (pdf). {{% /staticref %}} 
+:memo: {{% staticref "math222/solution10p4.pdf" %}} My solution (pdf). {{% /staticref %}} 
