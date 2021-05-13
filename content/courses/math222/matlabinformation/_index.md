@@ -10,17 +10,15 @@ draft: false
 weight: 100
 ---
 
-##Downloading
+
+
+## Downloading
 
 MATLAB is available in most campus computer labs or for downloading to your personal computer, following the instructions on the [IST Software Downloads page](https://ist.njit.edu/software-available-download#m). An in-broswer version of MATLAB is also available at [MATLAB Online](https://matlab.mathworks.com) and won't require you to download it. Either option will require you to create a MATLAB account with your NJIT email address.
 
 ## Learning to use MATLAB
 
 MATLAB is used in many places in the NJIT curriculum. It's in your interest to learn to use it well. The Mathworks (creators of MATLAB) offer a variety of self-taught courses on the website [MATLAB Academy](https://matlabacademy.mathworks.com). I highly recommend the course __MATLAB Onramp__, especially transfer students who haven't used the software before.
-
-## A Note on the assignments
-
-The assignments this semester are slightly modified in comparison with last semester. The two long assignments from the fall have been lightly edited and split into four shorter assignments. The total workload is essentially unchanged, but this should prevent procrastinators from getting overwhelmed. Assignment 3 involves no computing, but contains modeling and theory that will prepare you for computational work in Assignment 4.
 
 ## MATLAB Programming
 
@@ -33,15 +31,5 @@ In MATLAB, there exist two types of program files.
 
 Be sure to delete sections of the final document not related to the exercises. Outputs should be turned in as a PDF.
 
-## Add-on software options
 
-In Assignments 1 & 4
-
-* One part where you must graph a *direction field* (MATLAB Assignment 1, Textbook §1.1) or a *phase plane* (Assignment 4, Textbook §7.5). This is not built into MATLAB, so you'll have to install some additional software.
-  * [Option 1:](option1) Add-on software for MATLAB.
-     * __Pro:__ Uses MATLAB.
-     * __Con:__ This is an old program that had some compatibility issues with recent versions of MATLAB, but I have managed to fix them.
-  * [Option 2](option2): Slopes app for iPhone/iPad. Android version now available, with fewer features but enough to do the assignments.
-     * __Pro:__ Output is gorgeous.
-     * __Con:__ This is new software. It does not work perfectly sometimes. Plus, I really want you to learn MATLAB.
 

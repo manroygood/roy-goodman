@@ -4,7 +4,7 @@ linktitle: Lab 1 Answer
 toc: false
 type: book
 date: "2020-01-27"
-draft: false
+draft: true
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 215
