@@ -15,7 +15,6 @@ __Fourth MATLAB Assignment__
 __Due April 30__ 
 
 
-
 #### Computational project part 1
 
 I ran the code with $N=10000$, $\gamma=1$ and $\beta$ varying. The assignment says to expect different behavior depending on whether or not $R_0>1$, where $R_0 = \frac{\beta N}{\gamma}$. 
