@@ -28,6 +28,10 @@ image:
 projects: []
 ---
 
+{{% callout note %}}
+I'm happy to report that my work here has been rendered obsolete. Brian Hong at the Mathworks has written new programs that are sleek and modern and in every way superior. They're even documented!  Download them [here](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field).
+{{% /callout %}}
+
 I have written a new front end and made _many, many_ fixes to the old MATLAB programs **dfield** and **pplane**, that make them compatible with MATLAB Release 2020b. To distinguish these new working programs, I've renamed them:
 
 **matdfield** draws direction fields for (possibly nonautonomous) first-order scalar ordinary differential equations.
@@ -36,7 +40,7 @@ I have written a new front end and made _many, many_ fixes to the old MATLAB pro
 
 I've also created a simple launcher packaged as a *MATLAB App*, so all a student needs to do is click a button.
 
-If you just want to download and run them, follow [these instructions]({{< relref "../../courses/math222/matlabinformation/option1/_index.md " >}}). The best place to download them is the [Mathworks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/86937-matdfpp).
+ The best place to download them is the [Mathworks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/86937-matdfpp).
 
 They have lots of nice features: 
 

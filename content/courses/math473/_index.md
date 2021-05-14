@@ -41,13 +41,8 @@ set(groot,'DefaultLegendInterpreter','latex');
 ```
 
 #### Add-on software
-In Part 1 of _Strogatz_ it will be helpful to use software to draw direction fields. In Part 2, it will be useful to use software to draw phase planes. This is not built into MATLAB in a simple way, so you'll have to install some additional software.
-  * [Option 1]({{< relref "../math222/matlabinformation/option1/_index.md " >}}) Add-on software for MATLAB.
-     * __Pro:__ Uses MATLAB. Your professor worked hard on it. Easy to install.
-     * __Con:__ Not as pretty as slopes.
-  * [Option 2]({{< relref "../math222/matlabinformation/option2.md">}}) Slopes app for iPhone/iPad. (Android versions expected in Spring semester.)
-     * __Pro:__ Can vary parameters. Output is gorgeous.
-     * __Con:__ Apple ecosystem only. Seems to use _fixed step_ Runge-Kutta which sometimes gives poorly-resolved solutions. I have managed to crash this program on multiple occasions.
+In Part 1 of _Strogatz_ it will be helpful to use software to draw direction fields. In Part 2, it will be useful to use software to draw phase planes. This is not built into MATLAB in a simple way, so you'll have to install some [additional software](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field). The site provides complete documentation and how-to videos.
+
 
 ### Here are some HTML files exported from MATLAB
 
