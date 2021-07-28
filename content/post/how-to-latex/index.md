@@ -176,11 +176,13 @@ If you prefer to edit locally, then set up Dropbox integration under Account $\r
 * Make minimal use of hand-formatted spacing. Try to avoid using `\`, `\,`, etc. 
 
 * Figures: 
-  * If making figures in MATLAB, Use my startup.m file to get better defaults, in particular thicker lines, larger text in labels, use the $\LaTeX$​ interpreter in all text. 
+  * If making figures in MATLAB, Use my startup.m file to get better defaults, in particular thicker lines, larger text in labels, use the $\LaTeX$​​ interpreter in all text. Thin lines disappear, especially when projected as slides.
   
   * Don't ever use the MATLAB green represented by `'g'`. Especially not in talks. It shows up very poorly on the screen. 
   
   * Align subfigures and avoid too much whitespace between and around them.
+  
+  * Don't get me started on colormaps! The old default MATLAB colormap, called **jet,** used in commands like `pcolor` and `surf ` is *bad, bad, bad* and should never be used. The new default colormap **parula** is better but still not optimal. A lot of perceptual research has gone into the design of the colormaps for the Python library **matplotlib** and has been ported over to [this MATLAB package](https://www.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-perceptually-uniform-colormaps). The link contains a video with an explanation.
   
   * The ["Obsolete Packages and Commnds"](https://ctan.org/pkg/l2tabu-english) document recommends against using the `\begin{center}...\end{center}` syntax in a figure and instead use `centering` , i.e.
   
