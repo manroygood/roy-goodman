@@ -1,18 +1,17 @@
 ---
-title: "Assignment 3: Modeling Epidemics with SIR Models"
-linktitle: "Lab 3: Epidemic modeling"
+title: "Supplement: Modeling Epidemics with SIR Models"
+linktitle: "Epidemics Modeling Supplement"
 toc: true
 type: book
 date: "2020-8-7"
 lastmod: "2021-01-06T00:00:00Z"
 draft: false
-weight: 230
+weight: 307
 ---
 
-__NJIT Math 222, Spring 2021__  
-__Due Friday, April 9__
+__NJIT Math 222, Fall 2021__  
 
-_This is the first part of a two-part assignment._ 
+*This supplement introduces the basic SIR system used to model epidemics. There are a few questions at the end, to turn in via Canvas.*
 
 We have all had our lives effected by the COVID-19 epidemic. In order to help the world recover from this problem, scientists with many different specialties have been attacking this problem from many angles. Never in the history of mankind has so much research on one topic been produced so quickly. 
 
@@ -38,7 +37,7 @@ graph LR;
   S((S))-- β S I -->I((I));
   I-- ɣ I -->R((R));
 ```
-The rate at which the susceptible population becomes infected is assumed to be jointly proportional to the  to both $S$ and $I$ and hence to their product. The parameter $\beta$ is itself a product, $\beta= c p$, where the contact rate $c$ has dimension $[c]=\frac{\rm{contacts}}{\rm{population}\cdot \rm{time}}$ and $p$ is the probability of transmission per contact, which has dimensions $[p]=\frac{1}{\text{contacts}}$.
+The rate at which the susceptible population becomes infected is assumed to be jointly proportional to the  to both $S$ and $I$ and hence to their product. This comes from the following reasoning: suppose that the population is *well mixed*. This means that during any time interval, any two individuals come into contact with each other with equal likelihood. That means that, the probability that individuals from two groups come into contact with each other must be proportional to the *product of the sizes of the two groups*. The parameter $\beta$ is itself a product, $\beta= c p$, where the contact rate $c$ has dimension $[c]=\frac{\rm{contacts}}{\rm{population}\cdot \rm{time}}$ and $p$ is the probability of transmission per contact, which has dimensions $[p]=\frac{1}{\text{contacts}}$.
 
 Putting this together gives a system of differential equations, called an _SIR model:_
 $$
@@ -52,13 +51,16 @@ $$
 Several assumptions go into this model:
 * The progress of the disease is sufficiently rapid that we can ignore changes in the subpopulations due to births and deaths from other causes. 
 * Closed population, i.e., there is no immigration or emigration, nor the possibility of an infected person bringing the disease back from their travels.
-* The _parameters_ $\beta$ and $\gamma$ are constant in time, so that we do not model seasonal dependence.
+* The _parameters_ $\beta$ and $\gamma$​ are constant in time, so that we do not model seasonal dependence, nor the evolution of the disease itself.
 * The population is _well-mixed_, i.e. there is no dependence on physical location or subgroup identity, so that every individual encounters every other individual with equal probability.
+
+#### Some observations
+
+* $\frac{\mathrm{d}}{\mathrm{d}t} (S+I+R)=0$, so that if $S(0)+I(0)+R(0)=N$ then $S(t)+I(t)+R(t)=N$ for all $t$​.
+* (Related) The evolution equations for $S(t)$ and $I(t)$ do not depend on $R(t)$. Therefore we can treat the system as a system of *two equations* for $S$ and $I$ and simply find the size of the recovered population using $R=N-S-I$ .
 
 #### Questions
 
-1. Show that $\frac{\mathrm{d}}{\mathrm{d}t} (S+I+R)=0$, so that if $S(0)+I(0)+R(0)=N$ then $S(t)+I(t)+R(t)=N$ for all $t$.
-2. Explain how assumptions $(A_1)-(A_2)$, summarized in the diagram, lead to the system of differential equations.
 3. Where would the imposition or a stay-at-home order effect this model? In particular, how would the _parameters change_?
 4. Where would widespread adoption of mask wearing effect this model, i.e. how would it effect the parameters?
 5. Come up with a feature that you think is missing from the model but straightforward to add to the model, and propose a modification to the model that you think would incorporate this feature. In particular, identify any new variables or terms needed for you modified model. Here are a few ideas:

@@ -12,7 +12,7 @@ weight: 310
 ---
 
 
-Section 10.1 of the textbook says a lot about the question of whether or not boundary value problems have solutions and whether those solutions are unique, but it doesn't actually tell you how to solve them. Fortunately, for linear problems at least, you have already seen all the mathematical ideas you need: a little bit of linear algebra, and, for inhomogeneous problems,  the methods of undetermined coefficients and variation of parameters
+Section 10.1 of the textbook says a lot about the question of whether or not linear boundary value problems have solutions and whether those solutions are unique, but it doesn't actually tell you how to solve them. Fortunately, you have already seen all the mathematical ideas you need: a little bit of linear algebra, and, for inhomogeneous problems, the methods of undetermined coefficients and variation of parameters
 
 #### Homogeneous problems
 
@@ -51,7 +51,7 @@ c_1 \\\\ c_2
 \alpha  \\\\ \beta
 \end{pmatrix} .
 $$
-Let the $2\times2$ matrix on the left be denoted by $M$. We know such an has a unique solution as long as $\det{M}\neq0$. Just as in equation $(11)$ on page 112 of Boyce, the this determinant appears in the denominator of the the solution formulas for $c_1$ and $c_2$ so may not vanish unless $\alpha=\beta=0$.
+Let the $2\times2$ matrix on the left be denoted by $M$. We know such an equation has a unique solution as long as $\det{M}\neq0$. Just as in equation $(11)$ on page 112 of Boyce, this determinant appears in the denominator of the the solution formulas for $c_1$ and $c_2$ so may not vanish unless $\alpha=\beta=0$.
 
 How does this works in practice?
 
@@ -66,15 +66,14 @@ This has general solutions $y_1=\cos{\frac{x}{2}}$, $y_2=\sin{\frac{x}{2}}$. For
 
 __Example 2__
 
-Consider the same problem but let it be defined instead on the interval $0<x<2\pi$. In this case the matrix is $M = \left(\begin{smallmatrix} 1 & 0 \\\\ -1 & 0 \end{smallmatrix}\right)$. This problem is not solvable.
+Consider the same problem but let it be defined instead on the interval $0<x<2\pi$. In this case the matrix is $M = \left(\begin{smallmatrix} 1 & 0 \\\\ -1 & 0 \end{smallmatrix}\right)$. The determinant of this matrix vanishes, so the problem is not solvable.
 
 _Can you see why the first example works but the second example fails?_ The solution $y_2$ is zero at both endpoints in the second example, so multiplying it by a constant $c_2$ doesn't change the boundary values!
 
 ### Inhomogeneous problems
 #### Using undetermined coefficients
 
-Constant coefficient inhomogeneous second order equations can be solved by the method of undetermined coefficients when the right-hand side takes certain forms, see section 3.5 of Boyce.
-Recall that these problems take the forms
+In sections 3.5 and 3.6 of Boyce, we learn to solve inhomogeneous second order ODE using the methods of undetermined coefficients and the method of variation of parameters. Recall that these problems take the form
 $$
 \begin{gathered}
 a \frac{d^2 y}{dx^2}(x)+ b \frac{dy}{dx}(x) + c y(x) = g(x); \  0<x<L \\\\
@@ -85,7 +84,7 @@ We know that the general solution is of the form
 $$
 y(x)= c_1 y_1(x)+ c_2 y_2(x) + Y(x)
 $$
-where $y_1$ and $y_2$ satisfy the associated homogeneous problem and $Y(x)$ is any particular solution.
+where $y_1$ and $y_2$ satisfy the associated homogeneous problem and $Y(x)$ is any particular solution, which we have learned how to find.
 
 Plugging this solution into the boundary conditions yields
 $$
@@ -122,15 +121,15 @@ y(0) =1 ; y(\pi)=1.
 \end{gathered}
 $$
 
-Now, I know that I just said we could use variation of parameters, but for this problem, it's easy enough to just use undetermined coefficients. The general solution is
+For this problem, it's easy enough to solve for $Y(x)$ using undetermined undetermined coefficients, which yields $Y(x)=4x+4$. Therefore, the general solution is
 $$
 y(x) = c_1 \cos{\frac{x}{2}}+ c_2 \sin{\frac{x}{2}} + 4x + 4.
 $$
-Evaluating this at the endpoints we find
+To solve the BVP we simply have to choose $c_1$ and $c_2$ so that this solution satisfies the boundary conditions. Evaluating the function $y(x)$ at the endpoints we find
 $$
 \begin{aligned}
 y(0) & = c_1 + 4 = 1, \\\\
-y(\pi) & = c_2 + 4 \pi + 4 = 1,
+y(\pi) & = c_2 + 4 \pi + 4 = 1.
 \end{aligned}
 $$
 which gives $c_1= -3$ and $c_2 = -4 \pi -3$.

@@ -93,7 +93,7 @@ Here are the packages that are called in my template. In some cases, the order t
   \usepackage[utf8]{inputenc}
   ```
 
-* **amsmath, amsthm, amssymb** These are packages from the American Mathematical Society that have lots of features that make writing math easier and better: from their names, you can guess that they introduce (i) general math stuff (ii) environments for defining theorems and (ii) additional math symbols. It'w worth reading the documentation to learn all the features. When I was writing my dissertation, the postdoc in the next office told me to stop using `\eqnarray` and to learn about the the equation alignment features. He was right. Other important features:
+* **[amsmath, amsthm, amssymb](https://texdoc.org/serve/short-math-guide/0)** These are packages from the American Mathematical Society that have lots of features that make writing math easier and better: from their names, you can guess that they introduce (i) general math stuff (ii) environments for defining theorems and (ii) additional math symbols. It'w worth reading the documentation to learn all the features. When I was writing my dissertation, the postdoc in the next office told me to stop using `\eqnarray` and to learn about the the equation alignment features. He was right. Other important features:
 
   * Use the AMS defined `\eqref` command to reference equations rather than the basic `\ref`. This puts parentheses around each reference.
   * `\DeclareMathOperator` as described above
@@ -136,26 +136,77 @@ Here are the packages that are called in my template. In some cases, the order t
 
 Some reasons to have a style guide are for consistency and to conform to professional conventions. On top of that, poor style can be distracting to the reader. I learned a bunch of things while preparing this document, so this style guide represents how I intend to use $\LaTeX$ in the future, rather than how I have always used it. 
 
-**Guidlines**
+#### Overleaf
 
-* Vectors: bold, usually lowercase. Don't use arrows.
+Do not email documents back and forth. Do not create a sequence of documents named `document1.tex`, `document2.tex`, etc. This can only lead to mistakes. Online tools such as [Overleaf](overleaf.com) handle shared documents much more elegantly. 
+
+If you prefer to edit locally, then set up Dropbox integration under Account $\rightarrow$​ Account settings on Overleaf. Edit on your personal device. Syncing isn't instantaneous, but prevents versioning Hell. Sadly, this requires a premium or institutional Overleaf account.
+
+#### Guidelines
+
+* This is a hard one. `$...$` and `$$...$$` are plain $\TeX$. The $\LaTeX$ equivalents are `\( \)` and `\[ \]`. Does this make a difference? I don't know, but it's [recommended as best practice](https://tex.stackexchange.com/questions/503/why-is-preferable-to) and is supposed to improve spacing before and after equations, so I'm going to try to do it from now on. You can download a python script called [dedollar](https://mjsharpe.github.io/tex-software/) that will convert this for you. 
+
+* Vectors: bold, usually lowercase. Don't use arrows. The best option is `\vb` (`\vb*` for Greek letters) from the **physics** package.
+
 * Matrices: Uppercase, bold.
-* Derivatives: Use the `\dv` command from the physics package.
-* The $\mathrm{d}$ in an integral is typeset using the `\dd` command from the **physics** package. This will automatically handle the spacing before the letter.
-* References:
-  * Use BibTeX. Make sure that capitalized words in titles ares surrounded by {}. Otherwise they'll get converted to lowercase
+
+* Derivatives: Use the `\dv` command from the physics package, `\pdv` for partials `\fdv` for functional or Frechêt derivatives.
+
+* The $\mathrm{d}$​ in an integral is typeset using the `\dd{x}` command from the **physics** package. This will automatically handle the spacing before the letter.
+
+* Bibliograpy & References:
+  * Use BibTeX. This is one area where I have especially strong opinions. Specific guidelines:
+    * BibTeX is reusable between documents. Reuse prevents new mistakes. Try to download the BibTeX from the journal's website for an article rather than entering by hand, e.g., click on the "download citation" button [here](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.124703).
+    * While a BibTeX file is plain text, it's better not to have to edit it directly. Even if you use Overleaf, I find it preferable to edit on my own computer using the BibDesk app. That way I don't mess up all the brackets.
+    * Use the appropriate document type.
+    * Make sure that capitalized words in article titles ares surrounded by {}. Otherwise they'll get converted to lowercase.
+    * Author names should be consistent. First and middle names should be shortened to initials. You don't have to actually edit the BibTeX file. Choose a bibliography style that automatically abbreviates for you, such as `\bibliographystlye{abbrv}`.
+    * Leave the "number" field and the "month" field blank.
   * Use `\eqref` to reference equations. Use a a nonbreaking space (denoted with a `~`) before reference commands `\ref`, and `\cite`. For example `A graph of Eq.~\eqref{equation1} is shown in Fig.~\ref{thisfigure}`.
   * The words Figure and Equation should always be abbreviated in references. As above, the word "Fig." should always appear before a figure reference. Referenced equation numbers should always be proceeded by a word: usually "Eq." but sometimes it's more natural to say something like "Inequality (5)" or "Hamiltonian (6)".
+  
 * If a word appears in a subscript or superscript, it should be in Roman script. $X_{\rm{max}}$ not $X_{max}$, written as `$X_{\rm{max}}$`. Make a macro `\Xmax` and call that.
-* Keep yourself out of it. Try to keep the use of the word "We" to a minimum. Sometimes using first person is the most elegant way to avoid passive voice.
-* Equations are part of sentences and need to be punctuated.
-* Don't start a sentence with a symbol.
-* Make minimal use of hand-formatted spacing. Try to avoid using `\`, `\,`, etc.
-* Figures: 
-  * If making figures in MATLAB, Use my startup.m file to get better defaults, in particular thicker lines, larger text in labels, use the $\LaTeX$ interpreter in all text.
-  * Don't ever use the MATLAB green represented by 'g'. Especially not in talks!
-  * Align subfigures and avoid too much whitespace between and around them.
 
-### My template and abbreviations files
+* Keep yourself out of it. Try to keep the use of first person to a minimum. In very rare circumstances, using first person is the most elegant way to avoid passive voice.
+
+* Equations are part of sentences and need to be punctuated.
+
+* Don't start a sentence with a symbol. Say "The norm $\lVert x\rVert$​ is finite,", not "$\lVert x\rVert$​​ is finite,"
+
+* Make minimal use of hand-formatted spacing. Try to avoid using `\`, `\,`, etc. 
+
+* Figures: 
+  * If making figures in MATLAB, Use my startup.m file to get better defaults, in particular thicker lines, larger text in labels, use the $\LaTeX$​ interpreter in all text. 
+  
+  * Don't ever use the MATLAB green represented by `'g'`. Especially not in talks. It shows up very poorly on the screen. 
+  
+  * Align subfigures and avoid too much whitespace between and around them.
+  
+  * The ["Obsolete Packages and Commnds"](https://ctan.org/pkg/l2tabu-english) document recommends against using the `\begin{center}...\end{center}` syntax in a figure and instead use `centering` , i.e.
+  
+    ```latex
+    \begin{figure}
+    \centering
+    \includegraphics{imagename}
+    \end{figure}
+    ```
+  
+    is preferred over
+  
+    ```latex
+    \begin{figure}
+    \begin{center}
+    \includegraphics{imagename}
+    \end{center}
+    \end{figure}
+    ```
+
+## Getting help
+
+* In TeXShop on a Mac, under help, click on "Show help on package" and enter the name of a package to read more about it.
+* If you are running $\LaTeX$ on a Mac, you most likely have a program installed called *TeX Live Utility*. It has three tabs. The first allows you to keep your $\TeX$ installation up to date. It usually takes a minute to load while it checks for all the updates. The second tab "Packages" contains a list of all the installed packages. You can search for useful installed packages. For example, search for "Exam" and you'll find the Exam package, which is the right way to write an exam. (I have never clicked on the third tab "Backups")
+* Google "How do I ... in Latex?" This will usually take you to a discussion on the [TeX StackExchange](https://tex.stackexchange.com/). Somebody has already asked the thing you want to know.
+
+## My template and abbreviations files
 
 At [this link](https://github.com/manroygood/LaTeX-Template) there are three $\LaTeX$ files: a master template file and two include files, one containing all the packages I usand the other containing the macros. I have also included a **startup.m** file for MATLAB. It should go in the search path and will run automatically when MATLAB starts. This changes the behavior of  MATLAB's text annotation functions such as `xlabel` and `title`. Any math that appears in such a command must now be enclosed in dollar signs, such as in `xlabel('$\omega$)`. This allows for both better looking text in your figures and opens up the possibility of much more complex math in the labels.
