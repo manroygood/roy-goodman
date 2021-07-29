@@ -7,7 +7,7 @@ title: Teaching
 subtitle:
 content:
   page_type: courses
-  filter_default: 2
+  filter_default: 1
   filters:
     tags:
       - previous

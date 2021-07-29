@@ -1,9 +1,9 @@
 ---
-title: "Assignment 3: SIR Models of Epidemics: Computation"
-linktitle: "Lab 3: Epidemic Computation"
+title: "Project 4: SIR Models of Epidemics: Computation"
+linktitle: "Project 4: SIR Models"
 toc: true
 type: book
-date: "2020-8-7"
+date: "2021-7-28"
 lastmod: "2021-01-08T00:00:00Z"
 draft: false
 
@@ -14,7 +14,7 @@ weight: 240
 __NJIT Math 222, Fall 2021__  
 
 {{% callout warning %}}
-There is a bug in the software used to typeset mathematics in this webpage. :frowning_face: Some equations may appear cut off or obstructed by white boxes. Changing the size of the browser window, or adjusting the font size in the browser, usually alleviates this. 
+There is a bug in the software used to typeset mathematics in this webpage. :frowning_face: Some equations may appear cut off or obstructed by an opaque box. Changing the size of the browser window, or adjusting the font size in the browser, usually alleviates this. 
 {{% /callout %}}
 
 This is the second part of a two-part assignment.
