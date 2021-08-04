@@ -17,11 +17,13 @@ __NJIT Math 222, Fall 2021__
 There is a bug in the software used to typeset mathematics in this webpage. :frowning_face: Some equations may appear cut off or obstructed by an opaque box. Changing the size of the browser window, or adjusting the font size in the browser, usually alleviates this. 
 {{% /callout %}}
 
-This is the second part of a two-part assignment.
+## What to turn in
 
-## Part 1
+Write your results in a word processor and export the final result into a PDF to upload. It should be divided into two parts, with headings **Part 1** and **Part 2** corresponding to the two sections below.
 
-* This {{% staticref "math222/euler2d.html" %}}MATLAB-generated webpage{{% /staticref %}} demonstrates how to use Euler's method to solve a two-component ODE system. Download the {{% staticref "math222/euler2d.mlx" %}}live script{{% /staticref %}} and edit the program to solve instead the differential equations satisfied by $S(t)$ and $I(t)$ in [the previous lab](../sir_modeling).
+### Part 1
+
+* This {{% staticref "math222f21/euler2d.html" %}}MATLAB-generated webpage{{% /staticref %}} demonstrates how to use Euler's method to solve a two-component ODE system. Download the {{% staticref "math222f21/euler2d.mlx" %}}live script{{% /staticref %}} and edit the program to solve instead the differential equations satisfied by $S(t)$, $I(t)$, and $R(t)$ in [the SIR supplement](../../supplements/sir_modeling).
 * Use this MATLAB program to explore the model: play around with initial conditions and parameters and see what happens in the simulations (a more systematic analysis will be performed later). Observe the effect of each parameter and the possible courses of simulated epidemics. Is it possible to simulate a sustained epidemic in this model, i.e., one in which $I(t)$ does not eventually go to zero.
 * Turn in your code, any outputs (graphs) and a few sentences explaining what you notice.
 
@@ -32,9 +34,9 @@ $$ R_0 = \frac{\beta N}{\gamma}.$$ Check this formula by simulating the model fo
 
 [^3]:MATLAB hint: Using the equality operator == compares two matrices of equal size element by element, and yields a logical matrix (a matrix whose entries are all logical true (1) or false (0)) of the same size as a result. In contrast, the function __isequal()__ checks wheter two matrices are identical and returns a single logical value.
 
-## Part 2
+### Part 2
 
-This section is a bit more open-ended. The final product should be a Word (or Google Docs) document that 
+This section is a bit more open-ended.  
 
 Phase portraits (or phase diagrams) provide a powerful tool to visualize the dynamics of ODE systems. Use the [Phase Plane App](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field) to compute the phase planes necessary for this part of the assignment.
 
@@ -45,7 +47,7 @@ $$
 \frac{\mathrm{d}}{\mathrm{d}t} I & = \beta S I - \gamma I
 \end{aligned}
 $$
-and can be plotted in a 2D $S$-$I$ phase diagram without loss of information. For a fixed set of parameters, draw a phase portrait with trajectories corresponding to different initial conditions. Observe how the course of the epidemic depends on the initial conditions. Draw trajectories for different values of $N$. For each simulation, identify the maximum value of $I$, and draw the point on the phase diagram. 
+and can be plotted in a 2D phase diagram without loss of information. For a fixed set of parameters, draw a phase portrait with a few trajectories corresponding to different initial conditions. Observe how the course of the epidemic depends on the initial conditions. Draw trajectories for different values of $N$. For each simulation, identify the maximum value of $I$, and draw the point on the phase diagram. 
 
 It is possible to determine analytically the value of $S$ for which the epidemic reaches its peak. Using $R_0$, we find  $S_{I \rm{\ is\ max}} = \frac{\gamma}{\beta}$. Plot these values on your phase diagram, and compare them to the points you obtained previously. Interpret the result. In particular, what
 happens when $S_0 \le \gamma/\beta$?

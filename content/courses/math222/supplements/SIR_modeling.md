@@ -57,13 +57,25 @@ Several assumptions go into this model:
 #### Some observations
 
 * $\frac{\mathrm{d}}{\mathrm{d}t} (S+I+R)=0$, so that if $S(0)+I(0)+R(0)=N$ then $S(t)+I(t)+R(t)=N$ for all $t$​.
-* (Related) The evolution equations for $S(t)$ and $I(t)$ do not depend on $R(t)$. Therefore we can treat the system as a system of *two equations* for $S$ and $I$ and simply find the size of the recovered population using $R=N-S-I$ .
+* (Related) The evolution equations for $S(t)$ and $I(t)$ do not depend on $R(t)$. Therefore we can treat the system as a system of *two equations* for $S$ and $I$ and simply find the size of the recovered population using $R=N-S-I$​ .
+
+#### Simulation results
+
+Here we show the results of two simulations. In both situations, we initialize the system by introducing a small number of infected individuals $I_0$​​. In the first case, the number of infected individuals quickly decreases to zero and an epidemic is avoided. In the end about 10\% of the population has had the disease and 90% remain susceptible.
+
+{{< figure library="true" src="math222f21/no_epidemic.jpg" title="Course of epidemic with $\beta=0.005$​, $\gamma=0.5$​. Susceptible (red), Infected (green), Recovered (blue). No epidemic" lightbox="true" >}}
+
+In the second case, the number of infected individuals *increases*, which we refer to as an epidemic. In the end about 95\% of the population has had the disease and 5% remain susceptible. At the epidemic's peak, 40\% of the population was infected.
+
+{{< figure library="true" src="math222f21/epidemic.jpg" title="Course of epidemic with $\beta=0.02$, $\gamma=0.5$. Susceptible (red), Infected (green), Recovered (blue). No epidemic" lightbox="true" >}}
+
+In your assignment, you will explore how we can relate these two types of solution to the problem's parameters and initial conditions.
 
 #### Questions
 
-3. Where would the imposition or a stay-at-home order effect this model? In particular, how would the _parameters change_?
-4. Where would widespread adoption of mask wearing effect this model, i.e. how would it effect the parameters?
-5. Come up with a feature that you think is missing from the model but straightforward to add to the model, and propose a modification to the model that you think would incorporate this feature. In particular, identify any new variables or terms needed for you modified model. Here are a few ideas:
+1. Where would the imposition or a stay-at-home order effect this model? In particular, how would the _parameters change_?
+2. Where would widespread adoption of mask wearing effect this model, i.e. how would it effect the parameters?
+3. Come up with a feature that you think is missing from the model but straightforward to add to the model, and propose a modification to the model that you think would incorporate this feature. In particular, identify any new variables or terms needed for you modified model. Here are a few ideas:
 
 * Births of new babies and deaths due to other causes.
 * Different populations that are more or less strict about following best practices to avoid spread.
@@ -71,7 +83,7 @@ Several assumptions go into this model:
 * Seasonality: in the winter, when people spend more time inside, and kids are in school, then the rate of transmission is increased, while in the summer, the opposite.
 * The epidemics spurs news coverage. News consumption changes people's behaviors. These create a feedback loop.
 
-6. Read [this article](https://www.statnews.com/2020/12/14/portrait-of-the-coronavirus-at-1/). It contains a lot of details about how Covid-19 spreads. Some of these would be quite difficult to add to a model. Identify one or more and state why you think they'd be hard to model.
+4. Read [this article](https://www.statnews.com/2020/12/14/portrait-of-the-coronavirus-at-1/). It contains a lot of details about how Covid-19 spreads. Some of these would be quite difficult to add to a model. Identify one or more and state why you think they'd be hard to model.
 
 ---
 For more information, see this nice article[^2]. [+plus Magazine](https://plus.maths.org/content/tags/covid-19) has a large collection of undergraduate-level articles on mathematics useful in understanding various aspects the COVID-19 pandemic. Another good resource comes from the [American Mathematical Society](http://www.ams.org/home/covid-19), see under the _Mathematical Modeling_ subheading.

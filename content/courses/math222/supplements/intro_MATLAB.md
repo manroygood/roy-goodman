@@ -11,5 +11,7 @@ weight: 303
 
 __NJIT Math 222, Fall 2021__  
 
-*This supplement introduces* 
+The supplement can be found {{% staticref "math222f21/EulerSupplement.html" %}} here {{% /staticref %}}.
+
+It was generated from this  {{% staticref "math222f21/EulerSupplement.mlx" %}} MATLAB live script{{% /staticref %}}, which you can open, edit, and run yourself.
 

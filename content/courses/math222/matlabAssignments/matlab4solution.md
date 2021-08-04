@@ -8,11 +8,9 @@ draft: 	true
 weight: 245
 ---
 
-__NJIT Math 222, Spring 2021__  
+__NJIT Math 222, Fall 2021__  
 
 __Fourth MATLAB Assignment__
-
-__Due April 30__ 
 
 
 #### Computational project part 1
