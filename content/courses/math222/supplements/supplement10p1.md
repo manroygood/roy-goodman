@@ -19,8 +19,8 @@ Section 10.1 of the textbook says a lot about the question of whether or not lin
 Suppose we want to solve the homogeneous boundary value problem (BVP)
 $$
 \begin{aligned}
-\frac{d^2 y}{dx^2}(x)+p(x)\frac{dy}{dx}(x)+q(x)y(x)&=0; 0<x<L; \\\\
-y(0) = a; \, y(L)&= b.
+\frac{d^2 y}{dx^2}(x)+p(x)\frac{dy}{dx}(x)+q(x)y(x)&=0; \quad 0<x<L; \\\\
+y(0) = a; \quad y(L)&= b.
 \end{aligned}
 $$
 We further suppose that we have a fundamental set of solutions to the ordinary differential equation $\{y_1(x),y_2(x)\}$. We know that the general solution is thus given by

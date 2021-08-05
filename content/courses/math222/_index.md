@@ -20,7 +20,7 @@ tags:
 
 ### MATLAB
 
-Over the semester there are four MATLAB Laboratory Assignments. 
+This semester, we are strengthening the computational component of the course. Over the semester there are three in-class MATLAB activities and four MATLAB projects. 
 
 See [Canvas](https://njit.instructure.com/courses/20209/modules/items/555814) for more details.
 
@@ -30,6 +30,8 @@ For help using MATLAB, talk to your instructor or see a tutor during MATLAB tuto
 
 ### Supplementary material
 
-* [Useful Fourier Series Demo in MATLAB](https://dspfirst.gatech.edu/matlab/) Most of the material here is more advanced. Scroll down until you find __Fourier Series Demo__.
+* [Introduction to MATLAB](supplements/intro_matlab)
+* [SIR Models of Epidemics](supplements/sir_modeling)
 * [Material for Section 10.1](supplements/supplement10p1) On boundary value problems with nonhomogeneous term on the right hand side.
 * [Material for Section 10.4](supplements/supplement10p4) On the use of Fourier sine series to solve boundary value problems.
+* [Useful Fourier Series Demo in MATLAB](https://dspfirst.gatech.edu/matlab/) Most of the material here is more advanced. Scroll down until you find __Fourier Series Demo__.
