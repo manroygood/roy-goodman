@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{% callout warning %}} When I wrote this post, I had just learned about the _physics_ package for $\LaTeX$ which can make typesetting a lot of the things I work on a lot easier.  I've since found out from [this discussion](https://tex.stackexchange.com/questions/470819/macros-dv-and-pdv-eat-the-subsequent-parenthesis-argument) that this package can be somewhat dangerous. I'm not giving up with it, but handle with care!{{% /callout %}} 
+
 For students first learning $\LaTeX$, it can be intimidating, but never fear, this document will help. If we’re going to publish something together, it will eventually have to meet my standards. By following this document, you’ll learn my approach to writing in $\LaTeX$ and hopefully avoid having to do things twice.
 
 Some ideas from this document were taken from other documents I found on the web such as [this one](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf) from Stephen Boyd at Stanford, [this one](https://inverseprobability.com/latexStyleGuide) from Neil Lawrence at Cambridge, and [this one](https://web.science.mq.edu.au/~rdale/resources/writingnotes/latexstyle.html) from Robert Dale at Macquarie. I started writing this thinking it was a guide to help students do things my way, but in the process of getting my thoughts down, I had to look things up. I learned a few things that I will be adopting in my own writing.
