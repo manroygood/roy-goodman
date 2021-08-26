@@ -14,8 +14,6 @@ __NJIT Math 222, Fall 2021__
 
 __Due Sunday, September 19__ 
 
-For this assignment, you need to use one of the two add-on options listed to the left. An overview of the advantages/disadvantages of each is [here](../../matlabinformation).
-
 ### Problem 1
 
 Consider the differential equation
