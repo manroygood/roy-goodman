@@ -31,6 +31,9 @@ education:
   - course: B.S. Applied Mathematics
     institution: New Jersey Institute of Technology
     year: 2016
+  - course: Ph.D. Applied Mathematics
+    institution: New Jersey Institute of Technology
+    year: 2021
 
 
 # Social/Academic Networking
@@ -57,6 +60,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Grad Students"
+- "Alumni"
 ---
 Jimmie's dissertation research focuses on the application of methods of optimal control to designing structures for the control of nonlinear waves in optics and BEC's. He also works as a research assistant in the NJIT Physics Department with professors John Federici and Ian Gatley.
