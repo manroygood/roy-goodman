@@ -2,16 +2,14 @@
 name = "NJIT"
 
 # Is theme light or dark?
-light = true
+is_light = false
 
 # Primary
-primary = "rgb(204,0,0)"
+primary = "rgb(167,12,27)"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-#menu_text_active = "#2962ff"
-#menu_title = "#2b2b2b"
 menu_text_active = "rgb(204,0,0)"
 menu_title = "#2b2b2b"
 

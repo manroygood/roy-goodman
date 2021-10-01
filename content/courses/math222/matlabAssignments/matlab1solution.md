@@ -1,20 +1,20 @@
 ---
-title: MATLAB Lab 1 Solution
-linktitle: Lab 1 Answer
+title: MATLAB Project 1 Solution
+linktitle:  Project 1 Solution
 toc: false
 type: book
 date: "2020-01-27"
-draft: true
+draft: false
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 215
+weight: 205
 ---
 
 
-__NJIT Math 222, Spring 2021__
+__NJIT Math 222, Fall 2021__
 ### Problem 1
 
-Consider the differential equation
+Consider the differential equation 
 $$
 \frac{dx}{dt}= f(x) = \sin{x}-a \sin{4x}
 $$
