@@ -13,10 +13,6 @@ weight: 240
 
 __NJIT Math 222, Fall 2021__  
 
-{{% callout warning %}}
-There is a bug in the software used to typeset mathematics in this webpage. :frowning_face: Some equations may appear cut off or obstructed by an opaque box. Changing the size of the browser window, or adjusting the font size in the browser, usually alleviates this. 
-{{% /callout %}}
-
 ## What to turn in
 
 Write your results in a word processor and export the final result into a PDF to upload. It should be divided into two parts, with headings **Part 1** and **Part 2** corresponding to the two sections below.
