@@ -4,7 +4,7 @@ linktitle: Lab 3 Answer
 toc: true
 type: book
 date: "2021-01-06"
-draft: 	true
+draft: 	false
 weight: 235
 ---
 
@@ -88,5 +88,4 @@ $$
 * Read this article. It contains a lot of details about how Covid-19 spreads. Some of these would be quite difficult to add to a model. Identify one or more and state why you think they'd be hard to model.
 
 _I'll post some of my favorite answers here._
-
 
