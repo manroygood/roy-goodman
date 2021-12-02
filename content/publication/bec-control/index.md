@@ -25,7 +25,7 @@ abstract: "Applications of Bose-Einstein Condensates (BEC) often require that th
 summary: ""
 
 tags: ["BEC"]
-categories: []
+categories: ["published"]
 featured: true
 
 # Custom links (optional).
