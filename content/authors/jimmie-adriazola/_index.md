@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Ph.D. Student, [Department of Mathematical Sciences](https://math.njit.edu/)
+role: Postdoc, [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/cstr-home/) starting January, 2022.
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.njit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: In addition to studying applied mathematics, Jimmie plays jazz guitar in gigs around New Jersey.
+bio: In addition to studying applied mathematics and physics, Jimmie plays jazz guitar in gigs around New Jersey.
 
 # List each interest with a dash
 interests:
