@@ -3,8 +3,6 @@ title: "Supplement: Modeling Epidemics with SIR Models"
 linktitle: "Epidemics Modeling Supplement"
 toc: true
 type: book
-date: "2020-8-7"
-lastmod: "2021-01-06T00:00:00Z"
 draft: false
 weight: 307
 ---
