@@ -3,11 +3,7 @@ title: "Project 4: SIR Models of Epidemics: Computation"
 linktitle: "Project 4: SIR Models"
 toc: true
 type: book
-date: "2021-7-28"
-lastmod: "2021-01-08T00:00:00Z"
 draft: false
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 240
 ---
 

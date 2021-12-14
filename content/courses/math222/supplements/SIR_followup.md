@@ -1,18 +1,13 @@
 ---
-title: MATLAB Assignment 3 Solution
-linktitle: Lab 3 Answer
+title: "Answers to Followup Questions: Modeling Epidemics with SIR Models"
+linktitle: " 🥵🥶🤢 Epidemics Modeling Followup Answers"
 toc: true
 type: book
-date: "2021-01-06"
-draft: 	true
-weight: 235
+draft: false
+weight: 308
 ---
 
-__NJIT Math 222, Fall 2020__  
-
-__Third MATLAB Assignment__
-
-__Due April 9__ 
+## Answers to followup questions
 
 #### Question 1
 
@@ -38,11 +33,13 @@ $$
   _As people stay at home, they have less contact with others, which decreases the contact rate $c$ and thus of $\beta$._
 
 #### Question 3
+
 * Where would widespread adoption of mask wearing effect this model?
 
   _The more people wear masks, the lower the probability that any individual contact leads to transmission. That is, it reduces $p$ and thus reduces $\beta$._ 
 
 #### Question 4
+
 * Come up with a feature that you think is missing from the model but straightforward to add to the model, and propose a modification to the model that you think would incorporate this feature. In particular, identify any new variables or terms needed for you modified model.
 
   _There are many features we know about the disease that we have simplified out of the model. I'll focus on two:_
@@ -83,9 +80,3 @@ $$
     Note that $\beta_{BA}$ is involved in the transmission of the pathogen from the $B$ subpopulation to the  $A$ subpopulation, while $\beta_{AB}$ measures transmission rate from the $A$ subpopulation to the $B$ subpopulation. There are a lot of constants to figure out in this model!
 
   3. You may have come up with your own idea, and that's great too. 
-
-#### Question 6
-* Read this article. It contains a lot of details about how Covid-19 spreads. Some of these would be quite difficult to add to a model. Identify one or more and state why you think they'd be hard to model.
-
-_I'll post some of my favorite answers here._
-

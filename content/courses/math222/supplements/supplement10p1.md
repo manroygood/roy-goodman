@@ -236,5 +236,5 @@ To get you started, note that the two homogeneous solutions are $y_1 = x^{-1}$ a
 ## Solutions to Exercises
 
 Solutions will be posted here after the due date.
- <!--:memo: {{% staticref "math222/solution10p1.pdf" %}} My solution (pdf). {{% /staticref %}}  -->
+{{% staticref "math222/solution10p1.pdf" %}} My solution (pdf). {{% /staticref %}}  
 
