@@ -9,7 +9,7 @@ draft: false
 weight: 303
 ---
 
-__NJIT Math 222, Fall 2021__  
+__NJIT Math 222__  
 
 The supplement can be found {{% staticref "math222f21/EulerSupplement.html" %}} here {{% /staticref %}}.
 

@@ -7,9 +7,13 @@ draft: false
 weight: 307
 ---
 
-__NJIT Math 222, Fall 2021__  
+__NJIT Math 222__  
 
 *This supplement introduces the basic SIR system used to model epidemics. There are a few questions at the end, to turn in via Canvas.*
+
+There is a saying in science: "All models are wrong, but some are useful".[^allwrong] This is the story of one of those models.
+
+[^allwrong]: https://en.wikipedia.org/wiki/All_models_are_wrong
 
 We have all had our lives effected by the COVID-19 epidemic. In order to help the world recover from this problem, scientists with many different specialties have been attacking this problem from many angles. Never in the history of mankind has so much research on one topic been produced so quickly. 
 

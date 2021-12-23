@@ -8,7 +8,7 @@ draft: 	true
 weight: 245
 ---
 
-__NJIT Math 222, Fall 2021__  
+__NJIT Math 222__  
 
 __Fourth MATLAB Assignment__
 

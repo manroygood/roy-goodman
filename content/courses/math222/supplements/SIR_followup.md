@@ -3,7 +3,7 @@ title: "Answers to Followup Questions: Modeling Epidemics with SIR Models"
 linktitle: " 🥵🥶🤢 Epidemics Modeling Followup Answers"
 toc: true
 type: book
-draft: false
+draft: true
 weight: 308
 ---
 

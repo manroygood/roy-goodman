@@ -10,9 +10,7 @@ draft: false
 weight: 210
 ---
 
-__NJIT Math 222, Fall 2021__
-
-__Due Sunday, September 19__ 
+__NJIT Math 222__ 
 
 ### Problem 1
 

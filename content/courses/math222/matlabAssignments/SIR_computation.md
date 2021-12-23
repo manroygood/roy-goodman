@@ -7,7 +7,7 @@ draft: false
 weight: 240
 ---
 
-__NJIT Math 222, Fall 2021__  
+__NJIT Math 222__  
 
 ## What to turn in
 

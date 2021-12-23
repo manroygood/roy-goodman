@@ -10,9 +10,7 @@ draft: false
 weight: 205
 ---
 
-__NJIT Math 222, Fall 2021__
-
-__Due Monday, September 6__ 
+__NJIT Math 222__ 
 
 Assignment [on Canvas](https://njit.instructure.com/courses/20209/modules/items/555755).
 

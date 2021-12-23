@@ -4,14 +4,14 @@ linktitle:  😍 Project 2 Solution
 toc: false
 type: book
 date: "2020-01-27"
-draft: false
+draft: true
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 215
 ---
 
 
-__NJIT Math 222, Fall 2021__
+__NJIT Math 222__
 ### Problem 1
 
 Consider the differential equation 

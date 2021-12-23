@@ -11,7 +11,7 @@ weight: 225
 ---
 
 
-__NJIT Math 222, Fall 2021__
+__NJIT Math 222__
 
 My solution to the assignment is contained {{% staticref "math222f21/matlab2solution.html" %}}in the attached MATLAB-generated webpage{{% /staticref %}}. This page was generated from {{% staticref "math222f21/matlab2solution.mlx" %}} the attached MATLAB live script{{% /staticref %}}. 
 

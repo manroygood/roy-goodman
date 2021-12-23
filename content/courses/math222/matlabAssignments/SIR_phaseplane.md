@@ -3,7 +3,7 @@ title: "Project 4 Solution:"
 linktitle: "🤧 Project 4 solutions"
 toc: true
 type: book
-draft: false
+draft: true
 weight: 245
 ---
 ### Part 1: Applying Euler Method to SIR Model
