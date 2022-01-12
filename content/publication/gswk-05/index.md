@@ -6,7 +6,7 @@ authors: ["admin", "Richart Slusher", "michael-weinstein", "Martin Klaus"]
 publication_types: ["6"]
 abstract: "Gap solitons are localized traveling waves that exist in Bragg grating optical fibers. We demonstrate a family of grating defects that support linear and nonlinear standing wave modes, and show numerically that these defect modes may be used to trap the energy from a gap soliton. A mechanism involving a nonlinear resonance is proposed to explain why trapping occurs in some situations and not in others."
 featured: false
-category: ["published"]
+categories: ["published"]
 tags: ["NLCME","Solitary wave collisions","Nonlinear Optics"]
 publication: "*Contemporary Mathematics 379:* Mathematical studies in nonlinear wave propagation"
 links:

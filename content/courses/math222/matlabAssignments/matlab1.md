@@ -12,5 +12,5 @@ weight: 205
 
 __NJIT Math 222__ 
 
-Assignment [on Canvas](https://njit.instructure.com/courses/20209/modules/items/555755).
+Assignment [on Canvas](https://njit.instructure.com/courses/22634/assignments/207551?module_item_id=703980).
 

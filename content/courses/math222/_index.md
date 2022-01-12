@@ -7,7 +7,7 @@ weight: 222
 
 # Page metadata.
 date: "2021-01-06T00:00:00Z"
-lastmod: "2021-07-22T00:00:00Z"
+lastmod: "2022-01-11T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: book  # Do not modify.
@@ -22,7 +22,7 @@ tags:
 
 This semester, we are strengthening the computational component of the course. Over the semester there are three in-class MATLAB activities and four MATLAB projects. 
 
-See [Canvas](https://njit.instructure.com/courses/20209/modules/items/555814) for more details.
+See [Canvas](https://njit.instructure.com/courses/22634/pages/basic-information?module_item_id=703979) for more details.
 
 For help using MATLAB, talk to your instructor or see a tutor during MATLAB tutoring hours at the Math Tutoring Center, described below.
 

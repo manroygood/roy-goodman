@@ -73,7 +73,7 @@ y(0) =  y(\pi) = 0
 $$
 Once again, we find the eigenfunctions are $y_n = \sin{nx}$, but the eigenvalues are $\lambda_n = c-n^2$. Plugging in the same expansion as before, we now find that
 $$
-\left(c-n^2\right) c_n = \frac{2}{\pi}\int_0^\pi f(x) \sin{mx} \ dx
+\left(c-n^2\right) c_n = \frac{2}{\pi}\int_0^\pi f(x) \sin{nx} \ dx
 $$
 So if $c=m^2$ for any integer $m$, this equation clearly has no solution. However, as long as this condition is not satisfied, we can solve for the coefficients:
 $$
