@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 title: Math 222 Differential Equations
 linktitle: Math 222 
-summary: Teaching sections 004 & 014. Coordinating all sections.
+summary: Teaching section 014. Coordinating all sections.
 weight: 222
 
 # Page metadata.
@@ -20,16 +20,16 @@ tags:
 
 ### MATLAB
 
-This semester, we are strengthening the computational component of the course. Over the semester there are three in-class MATLAB activities and four MATLAB projects. 
+Over the semester there are four in-class MATLAB activities and four MATLAB projects. 
 
-See [Canvas](https://njit.instructure.com/courses/22634/pages/basic-information?module_item_id=703979) for more details.
+See [Canvas](https://njit.instructure.com/courses/22634/modules/items/703979) for more details.
 
-For help using MATLAB, talk to your instructor or see a tutor during MATLAB tutoring hours at the Math Tutoring Center, described below.
+For help using MATLAB, talk to your instructor (preferred option) or see a tutor during MATLAB tutoring hours at the Math Tutoring Center, described below (secondary option).
 
 ---
 
 ### Supplementary material
-
+* [How to Succeed in Math 222]({{< relref "slides/math222" >}})
 * [Introduction to MATLAB](supplements/intro_matlab)
 * [SIR Models of Epidemics](supplements/sir_modeling)
 * [Material for Section 10.1](supplements/supplement10p1) On boundary value problems with nonhomogeneous term on the right hand side.

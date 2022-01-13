@@ -10,9 +10,7 @@ slides:
   theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
-  reveal_options:
-    hash: true
+  highlight_style: github
 ---
 
 # Create slides in Markdown with Wowchemy
