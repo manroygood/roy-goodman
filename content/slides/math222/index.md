@@ -30,6 +30,7 @@ Prof. Roy Goodman
 
 ---
 ### The other important thing: work
+There is a lot to learn in this class. You can't let yoursel fall behind.
 * Start working in week one.
 * Keep up day to day (or at least week to week). _Friday's lecture will be easier to follow if you have understood Thursday's lecture._ 
 * Showing up every day, but then doing zero work will lead to failure. 
