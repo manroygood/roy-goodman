@@ -30,12 +30,12 @@ Prof. Roy Goodman
 
 ---
 ### The other important thing: work 👷
-There is a lot to learn in this class. You can't let yoursel fall behind.
+There is a lot to learn! Don't fall behind!
 * Start working in week one. 📆
 * Keep up day to day (or at least week to week). _Friday's lecture will be easier to follow if you have understood Thursday's lecture._ 
-* Showing up every day, but then doing zero work will lead to failure. 
+* Attending every lecture but doing no work is a poor strategy. 
 * Read the book 📖, work through the examples, and _try to understand the ideas_. Then do the homework.
-* Expect to spend 2-3 hours working for every hour of lecture.
+* Spend 2-3 hours working for every hour of lecture.
 
 ---
 ### Your time is valuable 🕰️ = 💵
