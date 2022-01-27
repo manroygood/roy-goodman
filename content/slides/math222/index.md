@@ -45,6 +45,11 @@ Too many students take this class two or more times before passing. Put in enoug
 Your instructors put a lot of time into planning and teaching the class. We like to see positive results.
 
 ---
+### Read the syllabus
+
+
+---
+
 ### Understand the grading scheme
 
 | Component | Contribution |
