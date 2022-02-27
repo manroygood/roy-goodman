@@ -12,7 +12,7 @@ Section 3.4 of the textbook presents the idea of "Reduction of Order" as a way t
 $$ a y'' + b y' + c y = 0  \ 😄 $$ 
 in the case that $b^2-4ac=0$ and the characteristic equation only has one unique root $r = -\frac{b}{a}$.
 
-The method it uses to derive reduction of order is the standard one, and I recently learned an alternate version that is both simpler to derive and leads to simpler calculations. Simpler calculations are good as they are less prone to user mistakes.
+The method it uses to derive reduction of order is the standard one, and I recently learned about an alternate version that is both simpler to derive and leads to simpler calculations from Natalya Tsipenyuk, who is teaching two sections of this class. Simpler calculations are good as they are less prone to user mistakes.
 
 We begin with the general second order linear homogeneous equation
 $$
