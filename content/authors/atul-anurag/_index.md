@@ -30,6 +30,9 @@ education:
   - course: BS Mathematics
     institution: Ramjas College, University of Delhi
     year: 2015
+  - course: M.Sc. Applied Mathematics
+    institution: National Institute of Technology, Warangal, Telangana, India
+    year: 2017
 
 
 # Social/Academic Networking

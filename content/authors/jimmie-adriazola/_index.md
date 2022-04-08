@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc, [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/cstr-home/) starting January, 2022.
+role: Postdoc, [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/cstr-home/), NJIT.
 
 # Organizations/Affiliations
 organizations:

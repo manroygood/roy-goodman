@@ -10,20 +10,21 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-Doc, [Dynamical Systems Laboratory](http://engineering.nyu.edu/dsl/), NYU Tandon.
+role: Data Scientist, [Prudential Insurance](http://www.prudential.com)
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
-  url: "http://www.nyu.edu"
+- name: Prudential Insurance
+  url: "http://www.prudential.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brandon defended his dissertation in August 2020, and has joined the [Dynamical Systems Laboratory](http://engineering.nyu.edu/dsl/) at the NYU Tandon School of NYU.
+bio: Brandon defended his dissertation on leapfrogging point vortices in August 2020 He spent about a year as a postdoc in the [Dynamical Systems Laboratory](http://engineering.nyu.edu/dsl/) at the NYU Tandon School of NYU. He is now a data scientist at Prudential Insurance, and has a very cute baby girl.
 
 interests:
 - Hamiltonian Systems
 - Vortex Motions
 - Computation
+- Data Science
 
 education:
   courses:
@@ -52,6 +53,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnOddParadigm
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/brandon-behring/
   
 
 #  icon_pack: fab

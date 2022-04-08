@@ -19,13 +19,14 @@ links:
 
 ### Erratum
 The matrix in Eq. (19) should read 
-$$\left.A_{h}(\theta)\right\rvert_{h=\frac18}=
+$$\small{\left.A_{h}(\theta)\right\rvert_{h=\frac18}=
 \begin{pmatrix}
  -\frac{4 \sin {2\theta}}{\sqrt{8 \cos {2\theta}+17}} & \frac{8 \cos ^2{2\theta}-12 \cos {2\theta}+3 \sqrt{8 \cos {2\theta}+17}-11}{2 (1-\cos
    {2\theta}) \sqrt{8 \cos {2\theta}+17}} \\\\
  \frac{-8 \cos^2{2\theta}-4 \cos {2\theta}-\sqrt{8 \cos {2\theta}+17}+7}{2 (\cos {2\theta}+1) \sqrt{8 \cos {2\theta}+17}} & \frac{4 \sin{2
    \theta}}{\sqrt{8 \cos {2\theta}+17}} 
 \end{pmatrix}
+}
 $$
 This is an isolated error in the writing and does not effect any of the mathematics in the paper.
 
