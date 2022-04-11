@@ -13,7 +13,6 @@ content:
       - previous
       - current
   filter_button:
-
     - name: All Courses
       tag: '*'
     - name: Current Courses
@@ -22,7 +21,7 @@ content:
       tag: previous
 
 design:
-  columns: '2'
-  view: 2
+  columns: '1'
+  view: masonry
   flip_alt_rows: false
 ---
