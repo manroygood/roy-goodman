@@ -12,7 +12,7 @@ draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 
-- previous
+  - previous
 ---
 The [NJIT Applied Math Capstone class](http://cfsm.njit.edu/capstone/index.php) is a two-semester class for graduating seniors that integrates mathematical modeling, analysis, and simulation with laboratory experiments
 

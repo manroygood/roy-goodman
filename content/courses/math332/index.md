@@ -12,7 +12,7 @@ draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 
-- previous
+  - previous
 ---
 
 

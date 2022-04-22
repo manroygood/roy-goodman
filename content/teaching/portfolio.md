@@ -6,9 +6,10 @@ weight: 100
 title: Teaching
 subtitle:
 content:
-  page_type: courses
   filter_default: 1
   filters:
+    folders:
+      - courses
     tags:
       - previous
       - current

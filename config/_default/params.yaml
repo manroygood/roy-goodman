@@ -67,7 +67,7 @@ features:
       - matlab
   math:
     enable: true
-  diagram:
+  diagram: 
     enable: true
   privacy_pack:
     enable: false
