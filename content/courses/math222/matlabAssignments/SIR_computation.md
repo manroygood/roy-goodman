@@ -6,11 +6,7 @@ type: book
 draft: false
 weight: 240
 ---
-{{% callout warning %}}
-This page still needs editing for Spring, 2022.
 
-**Do not do this assignment yet!**
-{{% /callout %}}
 
 ## What to turn in
 
