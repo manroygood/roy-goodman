@@ -4,7 +4,7 @@ linktitle: Lab 4 Answer
 toc: true
 type: book
 date: "2021-01-06"
-draft: 	true
+draft: 	false
 weight: 245
 ---
 
