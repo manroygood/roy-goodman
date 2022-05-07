@@ -1,6 +1,6 @@
 ---
 title: MATLAB Assignment 4 Solution
-linktitle: :cat: Lab 4 Answer
+linktitle: 🐱 Project 4 Answer
 toc: true 
 type: book
 date: "2021-01-06"

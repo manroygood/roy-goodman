@@ -1,6 +1,6 @@
 ---
 title: MATLAB Lab 2 Solution
-linktitle: Lab 2 Answer
+linktitle: 🤮 Project 2 Solution
 toc: false
 type: book
 date: "2020-01-27"
