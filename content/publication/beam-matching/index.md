@@ -31,12 +31,14 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+ - name: Journal
+   url: https://doi.org/10.1364/JOSAA.450257
  - name: arXiV
    url: "https://arxiv.org/abs/2112.00728"
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://doi.org/10.1364/JOSAA.450257
 url_code:
 url_dataset:
 url_poster:
