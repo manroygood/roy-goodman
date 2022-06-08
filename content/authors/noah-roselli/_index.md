@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate, NJIT
+role: Ph.D. Student, [Northwestern University](https://www.mccormick.northwestern.edu/applied-math/)
 
 # Organizations/Affiliations
 organizations:
@@ -30,10 +30,13 @@ education:
   courses:
   - course: BS in Physics
     institution: New Jersey Institute of Technology
-    year: expected 2022
+    year:  2022
   - course: B.S. in Mathematics
     institution: New Jersey Institute of Technology
-    year: expected 2022
+    year:  2022
+  - course: Ph.D. in Engineering Science and Applied Mathematics
+    institution: Northwestern University
+    year: 2027 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
