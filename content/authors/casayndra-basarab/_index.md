@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Clinical Assistant Professor, Pace University
+role: Clinical Assistant Professor, [Pace University](http://www.pace.edu)
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- "Ph.D. Alumni"
 ---
 Casayndra wrote her dissertation on Hamiltonian Hopf bifurcations in discrete self-trapping equations. Since 2016 she has been an instructor at Pace University in New York City.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Member of Technical Staff, Draper Laboratories
+role: Member of Technical Staff, [Draper Laboratories](http://www.draper.com)
 
 # Organizations/Affiliations
 organizations:
@@ -58,6 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Ph.D. Alumni
 ---
 After completing his Ph.D. under the supervision of Roy Goodman, Jacek spent a year as a postdoc at NJIT working with Michael Booty and Michael Siegel. He spent three years as a postdoc at Tulane University with Lisa Fauci and Ricardo Cortez. He worked at Raytheon before beginning his current job as member of technical staff at Draper Laboratories.

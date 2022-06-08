@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc, [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/cstr-home/), NJIT.
+role: Postdoc, [UC Santa Barbara](https://www.math.ucsb.edu).
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
-  url: "https://www.njit.edu"
+- name: UC Santa Barbara
+  url: "https://www.ucsb.edu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: In addition to studying applied mathematics and physics, Jimmie plays jazz guitar in gigs around New Jersey.
+bio: In addition to studying applied mathematics and physics, Jimmie plays jazz guitar in local venues.
 
 # List each interest with a dash
 interests:
@@ -46,7 +46,7 @@ social:
   link: https://web.njit.edu/~ja374
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ja374@njit.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jadriazola@ucsb.edu'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,6 +60,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Alumni"
+- "Ph.D. Alumni"
 ---
 Jimmie's dissertation research focuses on the application of methods of optimal control to designing structures for the control of nonlinear waves in optics and BEC's. He also works as a research assistant in the NJIT Physics Department with professors John Federici and Ian Gatley.

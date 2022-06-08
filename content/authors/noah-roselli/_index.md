@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- "BS Alumni"
 ---
 Noah, a current senior at NJIT, is working with me and Brandon Behring on generalizations to the leapfrogging vortices problem
