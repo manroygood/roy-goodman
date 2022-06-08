@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Solitary Waves in Mass-in-Mass Lattices"
-authors: ["Timothy Faver","admin","doug-wright"]
+authors: ["tim-faver","admin","doug-wright"]
 date: 2020-11-04:18:46:43-05:00
 doi: ""
 
