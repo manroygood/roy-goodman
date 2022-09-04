@@ -1,17 +1,20 @@
 ---
 widget: portfolio
 headless: true
-active: true
 weight: 100
 title: Teaching
 subtitle:
 content:
-  page_type: courses
-  filter_default: 1
   filters:
-    tags:
-      - previous
-      - current
+    folders:
+      - course
+    kinds:
+      - section
+    exclude_tags:
+      - preface
+
+  filter_default: 0
+
   filter_button:
     - name: All Courses
       tag: '*'
@@ -19,7 +22,6 @@ content:
       tag: current
     - name: Past Courses
       tag: previous
-
 design:
   columns: '1'
   view: masonry

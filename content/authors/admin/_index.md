@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, [Department of Mathematical Sciences](https://math.njit.edu/)
+role: Associate Professor, Associate Chair for Graduate Studies, [Department of Mathematical Sciences](https://math.njit.edu/)
 
 # Organizations/Affiliations
 organizations:
