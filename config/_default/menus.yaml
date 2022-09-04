@@ -17,7 +17,7 @@ main:
     url: event/
     weight: 48
   - name: Teaching
-    url: course/
+    url: teaching/
     weight: 50
   - name: Students
     url: students/
