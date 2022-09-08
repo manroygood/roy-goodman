@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 title: Math 222 Differential Equations
 linktitle: Math 222 
-summary: Teaching section 014. Coordinating all sections.
+summary: I coordinated and taught this class between 2017 and 2022.
 weight: 222
 
 # Page metadata.
@@ -12,7 +12,7 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 
-- current
+- previous
 
 ---
 

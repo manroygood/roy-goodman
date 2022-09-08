@@ -12,15 +12,14 @@ content:
     exclude_tags:
       - preface
 
-  filter_default: 0
-
   filter_button:
     - name: All Courses
-      tag: '*'
+      tag: '.js-id-current, .js-id-previous'
     - name: Current Courses
       tag: current
     - name: Past Courses
       tag: previous
+  filter_default: 1
 design:
   columns: '1'
   view: masonry

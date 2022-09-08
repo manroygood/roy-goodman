@@ -9,6 +9,8 @@ menu:
   capstone:
     parent: Capstone
     weight: 3
+tags: 
+- subpage
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2013
