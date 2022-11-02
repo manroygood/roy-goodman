@@ -5,7 +5,7 @@ publishDate: 2019-12-26
 authors: ["brandon", "admin"]
 publication_types: ["2"]
 abstract: "We investigate the stability of a one-parameter family of periodic solutions of the four-vortex problem known as _leapfrogging_ orbits. These solutions, which consists of two pairs of identical yet oppositely-signed vortices, were known to W. Gröbli (1877) and  A. E. H. Love (1883), and can be parameterized by a dimensionless parameter $\\alpha$  related to the geometry of the initial configuration. Simulations by Acheson (2000) and numerical Floquet analysis by Tophøj and Aref (2012) both indicate, to many digits, that the bifurcation occurs when $\\alpha=\\phi^{-2}$, where $\\phi$ is the golden ratio. This study aims to explain the origin of this remarkable value. Using a trick from the gravitational two-body problem, we change variables to render the Floquet problem in an explicit form that is more amenable to analysis. We then implement G. W. Hill's method of harmonic balance to high order using computer algebra to construct a rapidly-converging sequence of asymptotic approximations to the bifurcation value, confirming the value found earlier."
-featured: true
+featured: false
 categories: ["published"]
 tags: ["Vortices","Bifurcation"]
 publication: " *Physical Review Fluids*"
