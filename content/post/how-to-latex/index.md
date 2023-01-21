@@ -82,7 +82,7 @@ Here are the packages that are called in my template. In some cases, the order t
 
 #### Fixing outdated things about $\LaTeX$
 
-* **csquotes** is a sophisticated package for handling quotes. I use it to do one thing. In order to get nice curly quotation marks like "Happy birthday!" you have to write $\mathtt{``Happy\  Birthday!''}$  with two single left-hand quotes on the left and two single right-hand quotes on the right. The package allows you to use plain old straight quotes like $\mathtt{"Happy\ Birthday!"}$ and still get curly quotes.
+* **csquotes** is a sophisticated package for handling quotes. I use it to do one thing. In order to get nice curly quotation marks like "Happy birthday!" you have to write ``` ``Happy Birthday''  ```  with two single left-hand quotes on the left and two single right-hand quotes on the right. The package allows you to use plain old straight quotes like ``` "Happy Birthday" ``` and still get curly quotes.
 
   ```latex 
   \usepackage{csquotes}
@@ -214,3 +214,4 @@ If you prefer to edit locally, then set up Dropbox integration under Account $\r
 ## My template and abbreviations files
 
 At [this link](https://github.com/manroygood/LaTeX-Template) there are three $\LaTeX$ files: a master template file and two include files, one containing all the packages I usand the other containing the macros. I have also included a **startup.m** file for MATLAB. It should go in the search path and will run automatically when MATLAB starts. This changes the behavior of  MATLAB's text annotation functions such as `xlabel` and `title`. Any math that appears in such a command must now be enclosed in dollar signs, such as in `xlabel('$\omega$)`. This allows for both better looking text in your figures and opens up the possibility of much more complex math in the labels.
+
