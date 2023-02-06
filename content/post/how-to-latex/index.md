@@ -82,7 +82,7 @@ Here are the packages that are called in my template. In some cases, the order t
 
 #### Fixing outdated things about $\LaTeX$
 
-* **csquotes** is a sophisticated package for handling quotes. I use it to do one thing. In order to get nice curly quotation marks like "Happy birthday!" you have to write ``` ``Happy Birthday''  ```  with two single left-hand quotes on the left and two single right-hand quotes on the right. The package allows you to use plain old straight quotes like ``` "Happy Birthday" ``` and still get curly quotes.
+* **csquotes** is a sophisticated package for handling quotes that does lots of things. I use it to do one thing. In order to get nice curly quotation marks like "Happy birthday!" in $\LaTeX$ you have to write ``` ``Happy Birthday''  ```  with two single left-hand quotes on the left and two single right-hand quotes on the right. The package allows you to use plain old straight quotes like ``` "Happy Birthday" ``` and still get curly quotes.
 
   ```latex 
   \usepackage{csquotes}
