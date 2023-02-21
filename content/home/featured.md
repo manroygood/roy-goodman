@@ -26,6 +26,7 @@ subtitle = "See [Full Publication List](papers/)"
     tag = ""
     category = ""
     publication_type = ""
+    featured_only = true
 
 [design]
   # Toggle between the various page layout types.
