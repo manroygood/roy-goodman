@@ -4,7 +4,6 @@
 title: "Transition to instability of the leapfrogging vortex quartet"
 authors: ["admin","brandon"]
 date: 2023-02-09T13:30:53-04:00
-doi: "https://doi.org/10.48550/arXiv.2210.16464"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
@@ -35,15 +34,12 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+  - name: Journal
+    url: "https://doi.org/10.1016/j.mechrescom.2023.104068"
+  - name: arXiv
+    url: "https://arxiv.org/abs/2210.16464"
 
-url_pdf: https://doi.org/10.1016/j.mechrescom.2023.104068
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

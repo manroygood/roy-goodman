@@ -4,7 +4,7 @@
 title: "Efficient Manipulation of Bose-Einstein Condensates in a Double-Well Potential"
 authors: ["jimmie-adriazola","admin","panos-kevrekidis"]
 date: 2022-06-08T08:43:35-04:00
-doi: "https://doi.org/10.48550/arXiv.2206.01858"
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-06-08T08:43:35-04:00
@@ -30,13 +30,13 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: Journal
+    url: "https://doi.org/10.1016/j.cnsns.2023.107219"
+  - name: arXiv
+    url: "https://arxiv.org/abs/2206.01858"
 
-url_pdf: https://arxiv.org/abs/2206.01858
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
