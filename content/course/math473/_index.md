@@ -50,38 +50,38 @@ I have created a few tutorials that we will be using over the course of the seme
 
 #### Basic MATLAB Usage
 
-  * **First MATLAB assignment:** Quantitative Comparison of Euler, Improved Euler, \& Runge-Kutta Methods $\bullet$ {{% staticref "math473/matlab1.html"%}}HTML{{% /staticref %}}  $\bullet${{% staticref "math473/matlab1.mlx"%}} 📄 Live Script{{% /staticref %}}
+  * **First MATLAB assignment:** Quantitative Comparison of Euler, Improved Euler, \& Runge-Kutta Methods ■ {{< staticref "math473/matlab1.html">}}HTML{{< /staticref >}}  ■{{< staticref "math473/matlab1.mlx">}} 📄 Live Script{{< /staticref >}}
     
-      * Solution: $\circ$ {{% staticref "math473/matlab1solution.html"%}}HTML{{% /staticref %}} $\circ${{% staticref "math473/matlab1solution.mlx"%}} 📄 Live Script{{% /staticref %}}
+      * Solution: ◦ {{< staticref "math473/matlab1solution.html">}}HTML{{< /staticref >}} ◦{{< staticref "math473/matlab1solution.mlx">}} 📄 Live Script{{< /staticref >}}
       
-  * **MATLAB Basics:** Function Handles and Anonymous Functions $\bullet${{% staticref "math473/functionHandle.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/functionHandle.mlx"%}} 📄 Live Script{{% /staticref %}}
+  * **MATLAB Basics:** Function Handles and Anonymous Functions ■{{< staticref "math473/functionHandle.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/functionHandle.mlx">}} 📄 Live Script{{< /staticref >}}
   
-      * Solution: $\circ$ {{% staticref "math473/functionHandleSolution.html"%}}HTML{{% /staticref %}} $\circ${{% staticref "math473/functionHandleSolution.mlx"%}} 📄 Live Script{{% /staticref %}}
+      * Solution: ◦ {{< staticref "math473/functionHandleSolution.html">}}HTML{{< /staticref >}} ◦{{< staticref "math473/functionHandleSolution.mlx">}} 📄 Live Script{{< /staticref >}}
 
-  * **MATLAB Basics:** Using `ode45` $\bullet$ {{% staticref "math473/ode45tutorial.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/ode45tutorial.mlx"%}}  📄 Live Script{{% /staticref %}}
+  * **MATLAB Basics:** Using `ode45` ■ {{< staticref "math473/ode45tutorial.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/ode45tutorial.mlx">}}  📄 Live Script{{< /staticref >}}
 
-      * Problem 1 solution: $\circ$ {{% staticref "math473/ode45Problem1.html"%}}HTML{{% /staticref %}} $\circ${{% staticref "math473/ode45Problem1.mlx"%}} 📄 Live Script{{% /staticref %}}
+      * Problem 1 solution: ◦ {{< staticref "math473/ode45Problem1.html">}}HTML{{< /staticref >}} ◦{{< staticref "math473/ode45Problem1.mlx">}} 📄 Live Script{{< /staticref >}}
       
-      * Problem 2 solution: $\circ$ {{% staticref "math473/ode45Problem2.html"%}}HTML{{% /staticref %}} $\circ${{% staticref "math473/ode45Problem2.mlx"%}} 📄 Live Script{{% /staticref %}}
+      * Problem 2 solution: ◦ {{< staticref "math473/ode45Problem2.html">}}HTML{{< /staticref >}} ◦{{< staticref "math473/ode45Problem2.mlx">}} 📄 Live Script{{< /staticref >}}
 
 ### Companion to the textbook
 
-  * **A Simple Bifurcation Diagram**: A MATLAB based solution to Strogatz problem 4.3.3. $\bullet${{% staticref "math473/strogatz4p3p3.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/strogatz4p3p3.mlx"%}} 📄 Live Script{{% /staticref %}}
+  * **A Simple Bifurcation Diagram**: A MATLAB based solution to Strogatz problem 4.3.3. ■{{< staticref "math473/strogatz4p3p3.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/strogatz4p3p3.mlx">}} 📄 Live Script{{< /staticref >}}
 
-  * **The Lorenz system:** Companion to Chapter 9 $\bullet${{% staticref "math473/lorenzDemo.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/lorenzDemo.mlx"%}} 📄 Live Script{{% /staticref %}}
+  * **The Lorenz system:** Companion to Chapter 9 ■{{< staticref "math473/lorenzDemo.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/lorenzDemo.mlx">}} 📄 Live Script{{< /staticref >}}
 
-  * **Iterated Map Demonstration:** Companion to Strogatz 10.1--10.4 {{% staticref "math473/mapDemo.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/mapDemo.zip"%}} 📄 Live Script and supporting files{{% /staticref %}}
+  * **Iterated Map Demonstration:** Companion to Strogatz 10.1--10.4 {{< staticref "math473/mapDemo.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/mapDemo.zip">}} 📄 Live Script and supporting files{{< /staticref >}}
 
-  * **The Rössler system:** Companion to Strogatz 10.6 $\bullet${{% staticref "math473/rosslerDemo.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/rosslerDemo.mlx"%}} 📄 Live Script{{% /staticref %}}
+  * **The Rössler system:** Companion to Strogatz 10.6 ■{{< staticref "math473/rosslerDemo.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/rosslerDemo.mlx">}} 📄 Live Script{{< /staticref >}}
 
-* **Box-counting dimension for the Hénon attractor:** Companion to Strogatz 11.4 $\bullet${{% staticref "math473/dimensionDemo.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/dimensionDemo.mlx"%}} 📄 Live Script{{% /staticref %}}
+* **Box-counting dimension for the Hénon attractor:** Companion to Strogatz 11.4 ■{{< staticref "math473/dimensionDemo.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/dimensionDemo.mlx">}} 📄 Live Script{{< /staticref >}}
 
-* **Attractor reconstruction for the Lorenz System** (similar to Strogatz 12.4) $\bullet${{% staticref "math473/lorenzReconstruct.html" %}} HTML {{% /staticref %}} $\bullet${{% staticref "math473/lorenzReconstruct.mlx"%}} 📄 Live Script{{% /staticref %}}
+* **Attractor reconstruction for the Lorenz System** (similar to Strogatz 12.4) ■{{< staticref "math473/lorenzReconstruct.html" >}} HTML {{< /staticref >}} ■{{< staticref "math473/lorenzReconstruct.mlx">}} 📄 Live Script{{< /staticref >}}
 
-* **Attractor reconstruction for a chemistry experiment:**  Companion to Strogatz 12.4 $\bullet${{% staticref "math473/BZReconstruct.html" %}} HTML {{% /staticref %}} $\bullet${{% staticref "math473/BZReconstruct.mlx"%}} 📄 Live Script{{% /staticref %}} $\bullet${{% staticref "math473/BZdata.txt"%}} 📄 Data File{{% /staticref %}}
+* **Attractor reconstruction for a chemistry experiment:**  Companion to Strogatz 12.4 ■{{< staticref "math473/BZReconstruct.html" >}} HTML {{< /staticref >}} ■{{< staticref "math473/BZReconstruct.mlx">}} 📄 Live Script{{< /staticref >}} ■{{< staticref "math473/BZdata.txt">}} 📄 Data File{{< /staticref >}}
 
-* **Strange attractor for the chaotic forced-damped double well oscillator:**  Companion to Strogatz 12.5, following Moon \& Holmes 1979 $\bullet${{% staticref "math473/doubleWellExample.html" %}} HTML {{% /staticref %}} $\bullet${{% staticref "math473/doubleWellExample.mlx"%}} 📄 Live Script{{% /staticref %}}
+* **Strange attractor for the chaotic forced-damped double well oscillator:**  Companion to Strogatz 12.5, following Moon \& Holmes 1979 ■{{< staticref "math473/doubleWellExample.html" >}} HTML {{< /staticref >}} ■{{< staticref "math473/doubleWellExample.mlx">}} 📄 Live Script{{< /staticref >}}
 
-* **Forced-damped pendulum example**: Shows period-doubling in a Poincaré map of the forced damped pendulum $\bullet${{% staticref "math473/pendulumExample.html" %}}HTML{{% /staticref %}} $\bullet${{% staticref "math473/pendulumExample.mlx"%}} 📄 Live Script{{% /staticref %}}
+* **Forced-damped pendulum example**: Shows period-doubling in a Poincaré map of the forced damped pendulum ■{{< staticref "math473/pendulumExample.html" >}}HTML{{< /staticref >}} ■{{< staticref "math473/pendulumExample.mlx">}} 📄 Live Script{{< /staticref >}}
 
      
