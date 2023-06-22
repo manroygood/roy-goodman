@@ -51,7 +51,7 @@ They have lots of nice features:
 
 These programs were originally copyrighted by John Polking between 1995 and 2003. The textbook *Ordinary Differential Equations Using MATLAB*, 3rd edition, contains a manual for the programs, but they are pretty self-explanatory.
 
-The codes were last properly updated in 2003 for MATLAB 6.5. The MATLAB File Exchange contains many submissions that got the codes running again on some release or other, but none that systematically attempted to fix _al_l the broken components. 
+The codes were last properly updated in 2003 for MATLAB 6.5. The MATLAB File Exchange contains many submissions that got the codes running again on some release or other, but none that systematically attempted to fix _all_ the broken components. 
 
 I have tried to fix all the errors but have not managed to fix everything. I have examined every warning produced by the Code Compatibility Report and the Code Analyzer Report features in MATLAB. I have been able to fix almost all of these. Where I could not, I suppressed the warning and left a comment. Most of the remaining warnings are due to arrays that change size over iterations, and there's not much to do about them. Many came from an overuse of the `eval` and `feval` commands, which I have replaced by more modern coding constructs.
 

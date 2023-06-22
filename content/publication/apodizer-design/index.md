@@ -3,8 +3,8 @@
 
 title: "Apodizer Design to Efficiently Couple Light into a Fiber Bragg Grating"
 authors: ["jimmie-adriazola","admin"]
-date: 2022-06-08T08:44:54-04:00
-doi: "https://doi.org/10.48550/arXiv.2206.02933"
+date: 2023-06-06T09:44:54-04:00
+doi: "https://doi.org/10.1137/22M1507759"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
@@ -13,7 +13,7 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Apodizer Design to Efficiently Couple Light into a Fiber Bragg Grating"
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2206.02933
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
