@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Roy Goodman. This work is licensed under {license}'
+    notice: '© {2023} Roy Goodman. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -60,8 +60,9 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    #theme_light: github-light
+    #theme_dark: dracula
+    theme: github-light
     extra_languages:
       - julia
       - latex
