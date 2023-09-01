@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc, [UC Santa Barbara](https://www.math.ucsb.edu).
+role: NSF MPS-Ascend Postdoctoral Fellow, [SMU](https://www.math.ucsb.edu).
 
 # Organizations/Affiliations
 organizations:
@@ -34,6 +34,9 @@ education:
   - course: Ph.D. Applied Mathematics
     institution: New Jersey Institute of Technology
     year: 2021
+  - course: Postdoc, Mathematics Department
+    institution: UC Santa Barbara
+    year: 2022-2023
 
 
 # Social/Academic Networking
@@ -46,8 +49,14 @@ social:
   link: https://web.njit.edu/~ja374
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jadriazola@ucsb.edu'  # For a direct email link, use "mailto:test@example.org".
-
+  link: 'mailto:jadriazola@mail.smu.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jimmie-adriazola-7694a11a9/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jimmie-Adriazola 
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
