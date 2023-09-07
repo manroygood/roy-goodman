@@ -19,7 +19,7 @@ content:
       tag: current
     - name: Past Courses
       tag: previous
-  filter_default: 1
+  filter_default: 0
 design:
   columns: '1'
   view: masonry
