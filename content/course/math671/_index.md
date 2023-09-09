@@ -29,6 +29,7 @@ y(0)=1,   \\, y(1) = -1.
 $$
 
 and at highlighting code (which isn't working, but at least it's in a good font), like this Fibonacci sequence calculation in MATLAB
+
 ```matlab
 % Good code has comments
 n = 5;
