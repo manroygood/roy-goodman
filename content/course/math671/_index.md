@@ -17,9 +17,9 @@ tags:
 ### Course Info
 Almost everything is on the [course canvas page](https://njit.instructure.com/courses/31528).
 
-### Why do I have this webpage then
+### Why do I have this webpage then?
 
-Because Canvas is not very good at typesettin long stretches of math, like this equation that may have a boundary layer
+Because Canvas is not very good at typesetting long stretches of math, like this equation that may have a boundary layer
 
 $$
 \begin{gathered}
