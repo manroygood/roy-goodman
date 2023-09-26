@@ -24,11 +24,11 @@ Because Canvas is not very good at typesetting long stretches of math, like this
 $$
 \begin{gathered}
 \epsilon y''(x) + y' + e^{-y} = 0, \\, 0< x< 1 \\\\
-y(0)=1,   \\, y(1) = -1.
+y(0)=1,   \\, y(1) = -1,
 \end{gathered}
 $$
 
-and at highlighting code (which isn't working, but at least it's in a good font), like this Fibonacci sequence calculation in MATLAB
+and at highlighting code, like this Fibonacci sequence calculation in MATLAB
 
 ```matlab
 % Good code has comments

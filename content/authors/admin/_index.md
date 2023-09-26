@@ -16,6 +16,7 @@ role: Associate Professor, Associate Chair for Graduate Studies, [Department of 
 organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
+- name
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include dynamical systems and nonlinear waves, vortex dynamics, quantum graphs, and network inference
