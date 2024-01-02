@@ -13,7 +13,7 @@ publishDate: 2022-06-08T08:43:35-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Efficient Manipulation of Bose-Einstein Condensates in a Double-Well Potential"
@@ -26,7 +26,7 @@ summary: "We use optimal control based on a Galerkin-truncated model to transfer
 
 tags: ["BEC","Nonlinear Schrödinger equation","Optimal control"]
 categories: ["published"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

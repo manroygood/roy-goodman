@@ -16,7 +16,7 @@ role: Associate Professor, Associate Chair for Graduate Studies, [Department of 
 organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
-- name
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include dynamical systems and nonlinear waves, vortex dynamics, quantum graphs, and network inference
@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/manroygood
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=0W8zeSMAAAAJ
+  link: https://scholar.google.com/citations?user=0W8zeSMAAAAJ
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?searchtype=author&query=Goodman%2C+R+H
