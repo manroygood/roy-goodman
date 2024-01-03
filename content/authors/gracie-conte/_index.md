@@ -38,10 +38,10 @@ education:
 social:
 - icon: globe-americas
   icon_pack: fas
-  link: https://www.linkedin.com/in/gconte23/details/education/
+  link: https://www.gconte.net
 - icon: linkedin
   icon_pack: fab
-  link: https://www.gconte.net
+  link: https://www.linkedin.com/in/gconte23/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/USERNAME
