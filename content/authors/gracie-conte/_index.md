@@ -15,7 +15,7 @@ role: Senior Professional Staff I
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins University Applied Physics Laboratory
-  url: ""
+  url: "https://www.jhuapl.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -58,14 +58,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# # Highlight the author in author lists? (true/false)
+# highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Group 1
-- Group 2
----
+# # Organizational groups that you belong to (for People widget)
+# #   Set this to `[]` or comment out if you are not using People widget.
+# user_groups:
+# - Group 1
+# - Group 2
+# ---
