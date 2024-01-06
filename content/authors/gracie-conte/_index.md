@@ -68,4 +68,4 @@ social:
 # user_groups:
 # - Group 1
 # - Group 2
-# ---
+---
