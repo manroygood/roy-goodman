@@ -29,9 +29,9 @@ content:
   coordinates:
     latitude: '40.742700'
     longitude: '-74.176944'
-  directions: __624 Cullimore Hall.__ If coming from Newark Penn Station, go to the Newark Light Rail, buy an Underground Fare from the machine for $0.75, validate it, and board at the far track for a train bound for Branch Brook Park or Grove Street. Get out at Warren Street/NJIT.
+  directions: __504A Cullimore Hall.__ If coming from Newark Penn Station, go to the Newark Light Rail, buy an Underground Fare from the machine for $0.75, validate it, and board at the far track for a train bound for Branch Brook Park or Grove Street. Get out at Warren Street/NJIT.
   office_hours:
-    - 'Tuesday/Thursday 1:25-2:25'
+    - 'Tuesday/Friday 2:50-3:50'
   contact_links:
     - icon: twitter
       icon_pack: fab
