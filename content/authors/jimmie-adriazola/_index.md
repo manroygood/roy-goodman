@@ -50,6 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jadriazola@mail.smu.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: book
+  icon_pack: fas
+  link: https://digitalcommons.njit.edu/dissertations/1562/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jimmie-adriazola-7694a11a9/

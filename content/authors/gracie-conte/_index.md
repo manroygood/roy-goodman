@@ -39,6 +39,9 @@ social:
 - icon: globe-americas
   icon_pack: fas
   link: https://www.gconte.net
+- icon: book
+  icon_pack: fas
+  link: https://cdr.lib.unc.edu/concern/dissertations/8623j7218
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gconte23/
@@ -69,3 +72,5 @@ social:
 # - Group 1
 # - Group 2
 ---
+
+I helped Jeremy Marzuola advise Gracie on her Ph.D. dissertation on numerical methods for quantum graphs at UNC-Chapel Hill.

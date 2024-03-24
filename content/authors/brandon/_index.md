@@ -46,15 +46,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bmb29@njit.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: globe-americas
+  link: 'mailto:bmb29@njit.edu'  
+- icon: book
   icon_pack: fas
-  link: https://web.njit.edu/~bmb29
+  link: https://digitalcommons.njit.edu/dissertations/1491/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnOddParadigm
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/brandon-behring/
   
 

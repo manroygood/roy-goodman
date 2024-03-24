@@ -44,7 +44,10 @@ social:
   link: 'mailto:cbasarab@pace.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: globe-americas
   icon_pack: fas
-  link: https://www.pace.edu/dyson/sections/meet-the-faculty/faculty-profile/cbasarab
+  link: https://www.pace.edu/profile/casayndra-basarab
+- icon: book
+  icon_pack: fas
+  link: https://digitalcommons.njit.edu/dissertations/87/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

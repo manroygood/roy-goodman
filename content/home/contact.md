@@ -41,10 +41,7 @@ content:
       icon_pack: fas
       name: Personal Webex Room
       link: 'https://njit.webex.com/meet/goodman'
-    - icon: skype
-      icon_pack: fab
-      name: Skype me
-      link: skype:royboygoodman?call
+
 
 design:
   columns: '2'

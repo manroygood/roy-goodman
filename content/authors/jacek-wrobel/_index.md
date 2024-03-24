@@ -17,6 +17,7 @@ organizations:
 - name: Draper Laboratories
   url: "http://www.draper.com"
 
+
 # Short bio (displayed in user profile at end of posts)
 bio: Jacek is a simulation engineer at Draper Labs in Cambridge, MA.
 
@@ -46,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jacek-wróbel-338a08ab
+- icon: book
+  icon_pack: fas
+  link: https://digitalcommons.njit.edu/dissertations/267/  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
