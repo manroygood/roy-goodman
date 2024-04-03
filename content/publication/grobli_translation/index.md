@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scattering between a vortex dipole and a point vortex: insights from a new phase plane"
-authors: [atul-anurag,admin,ellison-ogrady]
-date: 2024-03-17T21:56:21-04:00
+title: "An English Translation of Gröbli's Ph.D. Dissertation: \"Specielle Probleme über die Bewegung geradliniger paralleler Wirbelfäden\""
+authors: [admin]
+date: 2024-04-02T21:56:21-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-17T21:56:21-04:00
+publishDate: 2024-04-02T21:56:21-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,18 @@ publishDate: 2024-03-17T21:56:21-04:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scattering between a vortex dipole and a point vortex: insights from a new phase plane"
+publication: "An English Translation of Gröbli's Ph.D. Dissertation: \"Specielle Probleme über die Bewegung geradliniger paralleler Wirbelfäden\""
 publication_short: "A new phase plane for dipole-vortex scattering"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We use Jacobi coordinates and Nambu brackets to derive a new representation of a three-vortex scattering problem whose phase plane simplifies the analysis."
+summary: "A complete English translation of Walter Gröbli's 1877
+Ph.D. Thesis, together with some notes on the process. The work considers the
+dynamics of point vortices in a two-dimensional inviscid incompressible fluid
+and derives a number of exact solutions in the cases of three, four and $2n$
+vortices with certain restriction on the vortices' circulation and the symmetry
+of the initial configuration."
 
 tags: ["Vortices"]
 categories: ["published"]
@@ -37,7 +42,7 @@ featured: true
 #   icon: twitter
 links:
   - name: arXiv
-    url: "https://arxiv.org/abs/2403.10383"
+    url: "https://arxiv.org/abs/2404.01305"
 
 url_pdf:
 url_code:

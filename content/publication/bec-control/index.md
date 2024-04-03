@@ -24,9 +24,9 @@ abstract: "Applications of Bose-Einstein Condensates (BEC) often require that th
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["BEC"]
+tags: ["BEC","Optimal Control"]
 categories: ["published"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

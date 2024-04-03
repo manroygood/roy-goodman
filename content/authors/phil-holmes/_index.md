@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Phil Holmes
+title: Philip Holmes
 
 # Username (this should match the folder name and the name on publications)
 authors:
