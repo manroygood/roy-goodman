@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scattering between a vortex dipole and a point vortex: insights from a new phase plane"
+title: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
 authors: [atul-anurag,admin,ellison-ogrady]
 date: 2024-03-17T21:56:21-04:00
 doi: ""
@@ -16,13 +16,13 @@ publishDate: 2024-03-17T21:56:21-04:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scattering between a vortex dipole and a point vortex: insights from a new phase plane"
-publication_short: "A new phase plane for dipole-vortex scattering"
+publication: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
+publication_short: "A new canonical reduction of three-vortex motion"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We use Jacobi coordinates and Nambu brackets to derive a new representation of a three-vortex scattering problem whose phase plane simplifies the analysis."
+summary: "We use Jacobi coordinates and Nambu brackets to derive a new representation of the motion of three vortices which, unlinke all previous reductions, introduces no singularities into the system. We use this to study the scattering of dipoles by stationary vortices."
 
 tags: ["Vortices"]
 categories: ["published"]
