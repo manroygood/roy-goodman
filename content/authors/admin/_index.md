@@ -16,6 +16,8 @@ role: Associate Professor, Associate Chair for Graduate Studies, [Department of 
 organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
+- name: SIAM New York-New Jersey-Pennsylvania Section (SIAM-NNP) President
+  url: "https://sites.google.com/view/siam-nynjpa/home"
 
 
 # Short bio (displayed in user profile at end of posts)
