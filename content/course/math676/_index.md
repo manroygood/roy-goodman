@@ -36,5 +36,5 @@ This changes how math is interpreted in figures and requires any $\LaTeX$ math t
 At some point, we may want to draw direction fields and phase planes. This capability is not built into MATLAB in a simple way, so you'll have to install some [additional software](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field). The site provides complete documentation and how-to videos.
 
 #### Computational solutions to homework problems
-* {{% staticref "math676/patrick3p4c.html" %}}Meiss 3.4c{{% /staticref %}}
+* {{< staticref "math676/patrick3p4c.html" >}}Meiss 3.4c{{< /staticref >}}
 
