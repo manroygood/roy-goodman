@@ -14,7 +14,11 @@ tags:
 
 ---
 
-I was invited to give a series of five one-hour lectures on numerical methods for quantum graphs at a [Summer School](https://nqg.sciencesconf.org) at [Université Polytechnique Hauts-de-France](https://www.uphf.fr/en) in June, 2024. 
+I was invited to give a series of five one-hour lectures on numerical methods for quantum graphs at a [Summer School](https://nqg.sciencesconf.org) at [Université Polytechnique Hauts-de-France](https://www.uphf.fr/en) in June, 2024. Thanks to the organizers
+* Colette De Coster (UPHF, Valenciennes)
+* Damien Galant (UPHF, Valenciennes and UMONS, Mons, Belgium)
+* Louis Jeanjean (Université de Franche-Comté, Besançon)
+* Stefan Le Coz (Université Paul Sabatier, Toulouse)
 
 I wrote this site to hold my rough lecture notes and supplementary MATLAB examples.
 
