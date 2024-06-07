@@ -3,17 +3,17 @@
 
 title: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
 authors: [atul-anurag,admin,ellison-ogrady]
-date: 2024-03-17T21:56:21-04:00
-doi: ""
+date: 2024-06-06
+doi: "10.1063/5.0208538"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-17T21:56:21-04:00
+publishDate: 2024-0-17T21:56:21-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering"
@@ -38,9 +38,11 @@ featured: true
 links:
   - name: arXiv
     url: "https://arxiv.org/abs/2403.10383"
+  - name: Supplement
+    url: "supplement.pdf"
 
-url_pdf:
-url_code:
+url_pdf: 
+url_code: 
 url_dataset:
 url_poster:
 url_project:
