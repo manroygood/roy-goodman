@@ -22,10 +22,13 @@ I was invited to give a series of five one-hour lectures on numerical methods fo
 
 I wrote this site to hold my rough lecture notes and supplementary MATLAB examples.
 
-## Examples
+## Computational Examples
 
 ### Examples from Delio Mugnolo's lecture
 
  * {{< staticref "nqg/mugnoloExample1.html" >}}Example 1{{< /staticref >}} An upper bound on the eigevalues of a quantum graph laplacian. 
  * {{< staticref "nqg/mugnoloExample2.html" >}}Example 2{{< /staticref >}} A lower bound on the eigevalues of a quantum graph laplacian.
  * {{< staticref "nqg/mugnoloExample3.html" >}}Example 3{{< /staticref >}} Monotonicity of the eigevalues of a quantum graph laplacian as the length of an edge is increased.
+
+### Examples from Diego Noja's lecture
+ * {{< staticref "nqg/orbitalStability.html" >}}Orbital Stability Example{{< /staticref >}} Considers two solutions to NLS on a dumbbell graph, one orbitally stable and the other unstable. Demonstrates what these look like in numerical simulations.
