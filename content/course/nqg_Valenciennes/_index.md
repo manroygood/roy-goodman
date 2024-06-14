@@ -39,14 +39,14 @@ I wrote this site to hold my rough lecture notes and supplementary MATLAB exampl
 
 ### Main reference
 * Goodman, Roy H, Grace Conte, and Jeremy L Marzuola. 2023.
-“<span class="nocase">QGLAB: A MATLAB Package for Computations on
-Quantum Graphs</span>.” *arXiv*.
+[QGLAB: A MATLAB Package for Computations on
+Quantum Graphs.]({{< relref "/publication/qglab" >}}) *arXiv 2401.00561*.
 
 ### Inspirations for this work
 
 * Besse, Christophe, Romain Duboscq, and Stefan Le Coz. 2021.
 “<span class="nocase">Numerical Simulations on Nonlinear Quantum Graphs
-with the GraFiDi Library</span>.” *arXiv*.
+with the GraFiDi Library</span>.” *arXiv* 2103.09650.
 
 * Goodman, Roy H. 2019. “<span class="nocase">NLS bifurcations on the
 bowtie combinatorial graph and the dumbbell metric graph</span>.”
