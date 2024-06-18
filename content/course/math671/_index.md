@@ -5,12 +5,12 @@ summary: Fall 2023
 weight: 671
 
 # Page metadata.
-title: Math 671--Asymptotic Methods
+title: Math 671–Asymptotic Methods
 draft: false # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
 tags: 
-    - past
+    - previous
 
 ---
 

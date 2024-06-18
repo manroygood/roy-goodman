@@ -23,6 +23,14 @@ I was invited to give a series of five one-hour lectures on numerical methods fo
 
 I wrote this site to hold my rough lecture notes and supplementary MATLAB examples.
 
+## Lecture Notes
+ * Lecture 1: 
+   * {{< staticref "nqg/lecture1.pdf" >}}Handwritten notes{{< /staticref >}} 
+   * [Accompanying slides](https://www.icloud.com/keynote/051bCbSl9_V2ba0xpF248YBMg#Lecture_1) (click play button to see builds and animations)
+* Lecture 1: 
+  * {{< staticref "nqg/lecture2.pdf" >}}Handwritten notes{{< /staticref >}} 
+  * [Accompanying slides](https://www.icloud.com/keynote/01dNLa4FCJl1QeChOFIHmIRkQ#Lecture_2)
+
 ## Computational Examples
 
 ### Examples from Delio Mugnolo's lectures
