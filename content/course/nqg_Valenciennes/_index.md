@@ -21,23 +21,32 @@ I was invited to give a series of five one-hour lectures on numerical methods fo
 * Louis Jeanjean (Université de Franche-Comté, Besançon)
 * Stefan Le Coz (Université Paul Sabatier, Toulouse)
 
-I wrote this site to hold my rough lecture notes and supplementary MATLAB examples.
+Below are my handwritten lecture notes and links to my supplementary slides with numerical examples.
 
 ## Lecture Notes
- * Lecture 1: 
+ * **Lecture 1:** Finite-difference discretization of the Poisson problem on a quantum graph.
    * {{< staticref "nqg/lecture1.pdf" >}}Handwritten notes{{< /staticref >}} 
    * [Accompanying slides](https://www.icloud.com/keynote/051bCbSl9_V2ba0xpF248YBMg#Lecture_1) (click play button to see builds and animations)
-* Lecture 1: 
+* **Lecture 2:** Rectangular Chebyshev collocation for the Poisson problem on a quantum graph.
   * {{< staticref "nqg/lecture2.pdf" >}}Handwritten notes{{< /staticref >}} 
   * [Accompanying slides](https://www.icloud.com/keynote/01dNLa4FCJl1QeChOFIHmIRkQ#Lecture_2)
+* **Lecture 3:** Application of the framework to other numerical problems
+  * {{< staticref "nqg/lecture3.pdf" >}}Handwritten notes{{< /staticref >}} 
+  * [Accompanying slides](https://www.icloud.com/keynote/089qXHHP3CsNFUHyS_5s_HX9g#Lecture_3)
+* **Lecture 4:** Implicit-explicit time stepping
+  * {{< staticref "nqg/lecture4.pdf" >}}Handwritten notes{{< /staticref >}} 
+  * [Accompanying slides](https://www.icloud.com/keynote/03dPy6nlokkGdRocT6kwjhTyQ#Lecture_4)
+* **Lecture 5:** Continuation methods
+  * {{< staticref "nqg/lecture5.pdf" >}}Handwritten notes{{< /staticref >}} 
+  * [Accompanying slides](https://www.icloud.com/keynote/0deMvuJsw07Y8WLUAbehXdaoA#Lecture_5)
 
 ## Computational Examples
 
 ### Examples from Delio Mugnolo's lectures
 
-* {{< staticref "nqg/mugnoloExample1.html" >}}Example 1{{< /staticref >}} An upper bound on the eigevalues of a quantum graph laplacian. 
-* {{< staticref "nqg/mugnoloExample2.html" >}}Example 2{{< /staticref >}} A lower bound on the eigevalues of a quantum graph laplacian.
-* {{< staticref "nqg/mugnoloExample3.html" >}}Example 3{{< /staticref >}} Monotonicity of the eigevalues of a quantum graph laplacian as the length of an edge is increased.
+* {{< staticref "nqg/mugnoloExample1.html" >}}Example 1{{< /staticref >}} An upper bound on the eigevalues of a quantum graph Laplacian. 
+* {{< staticref "nqg/mugnoloExample2.html" >}}Example 2{{< /staticref >}} A lower bound on the eigevalues of a quantum graph Laplacian.
+* {{< staticref "nqg/mugnoloExample3.html" >}}Example 3{{< /staticref >}} Monotonicity of the eigevalues of a quantum graph Laplacian as the length of an edge is increased.
 
 ### Examples from Diego Noja's lectures
 
@@ -54,7 +63,7 @@ Quantum Graphs.]({{< relref "/publication/qglab" >}}) *arXiv 2401.00561*.
 
 * Besse, Christophe, Romain Duboscq, and Stefan Le Coz. 2021.
 “<span class="nocase">Numerical Simulations on Nonlinear Quantum Graphs
-with the GraFiDi Library</span>.” *arXiv* 2103.09650.
+with the GraFiDi Library</span>.” *arXiv 2103.09650*.
 
 * Goodman, Roy H. 2019. “<span class="nocase">NLS bifurcations on the
 bowtie combinatorial graph and the dumbbell metric graph</span>.”
@@ -86,7 +95,7 @@ Matlab</span>*. SIAM.
 
 * Xu, Kuan, and Nicholas Hale. 2016. “<span class="nocase">Explicit
 construction of rectangular differentiation matrices</span>.” *IMA
-Journal of Numerical Analysis* 36.
+Journal of Numerical Analysis* 36: 618 - 632.
 
 ### Implicit-explict Runge-Kutta methods
 
@@ -100,7 +109,7 @@ Numerical Mathematics* 25: 151–67.
 * Dhooge, A, Willy J F Govaerts, Yu A Kuznetsov, H G E Meijer, and B
 Sautois. 2008. “<span class="nocase">New features of the software
 MatCont for bifurcation analysis of dynamical systems</span>.”
-*Mathematical and Computer Modelling of Dynamical Systems* 14 (2):
+*Mathematical and Computer Modelling of Dynamical Systems* 14:
 147–75.
 
 * Dhooge, Annick, Willy J F Govaerts, and Yu A Kuznetsov. 2003.
