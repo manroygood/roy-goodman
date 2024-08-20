@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, Associate Chair for Graduate Studies, [Department of Mathematical Sciences](https://math.njit.edu/)
+role: Professor, Associate Chair for Graduate Studies, [Department of Mathematical Sciences](https://math.njit.edu/)
 
 # Organizations/Affiliations
 organizations:
@@ -82,4 +82,4 @@ email: ""
 #- Visitors
 ---
 
-I am an associate professor in the Department of Mathematical Sciences at NJIT. My research applies methods of dynamical systems to (conservative, dispersive) nonlinear wave equations arising, for example, in optics and fluid mechanics. I am interested in dynamical and bifurcation phenomena, and I use techniques from Hamiltonian mechanics and perturbation theory, as well as extensive computations. My current research in vortex dynamics is supported by the NSF under [DMS-2206016](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2206016&HistoricalAwards=false).
+I am a professor in the Department of Mathematical Sciences at NJIT. My research applies methods of dynamical systems to (conservative, dispersive) nonlinear wave equations arising, for example, in optics and fluid mechanics. I am interested in dynamical and bifurcation phenomena, and I use techniques from Hamiltonian mechanics and perturbation theory, as well as extensive computations. My current research in vortex dynamics is supported by the NSF under [DMS-2206016](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2206016&HistoricalAwards=false).

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SIAM New York – New Jersey – Pennsylvania Section Holds Inaugural Conference"
-authors: ["Kathleen Kavanaght","admin"]
+authors: ["Kathleen Kavanagh","admin"]
 date: 2024-01-22T22:12:48-05:00
 doi: ""
 
