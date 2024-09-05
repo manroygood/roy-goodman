@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Student, NJIT
+role: PhD Student, NJIT
 
 # Organizations/Affiliations
 organizations:
@@ -52,6 +52,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Undergraduate Students"
+- "BS Alumni"
 ---
 Ellison is working with Professor Goodman on the chaotic scatterng of solitary waves
