@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Atul Anurag"
+title: "Atul Anurag (अतुल अनुराग)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
