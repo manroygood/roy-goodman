@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Nan Zhou"
+title: "Nan Zhou (周南)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
