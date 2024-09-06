@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS Mechanical Design 
+  - course: BS Mechanical Engineering 
     institution: Southwest Jiaotong University
     year: 2018
   - course: M.Sc. Mechanical Engineering
