@@ -3,7 +3,7 @@
 
 title: "QGLAB: A MATLAB Package for Computations on Quantum Graphs"
 authors: ["admin","gracie-conte","jeremy-marzuola"]
-date: 2024-01-01T21:57:07-05:00
+date: 2025-03-31T21:57:07-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,17 +31,16 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+  - name: DOI
+    url: "https://epubs.siam.org/doi/10.1137/23M1627729"
   - name: arXiv
-    url: "https://arxiv.org/abs/2401.00561"
-  - name: GitHub
-    url: "https://github.com/manroygood/Quantum-Graphs"
-# - name: Follow
+    url: "https://arxiv.org/abs/2401.00561"# - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: 
+url_code: "https://github.com/manroygood/Quantum-Graphs"
 url_dataset:
 url_poster:
 url_project:
