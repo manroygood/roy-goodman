@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: NSF MPS-Ascend Postdoctoral Fellow, [SMU](https://www.math.ucsb.edu).
+role: Presidential Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: UC Santa Barbara
-  url: "https://www.ucsb.edu.edu"
+- name: Arizona State University
+  url: "https://www.asu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In addition to studying applied mathematics and physics, Jimmie plays jazz guitar in local venues.
@@ -37,6 +37,9 @@ education:
   - course: Postdoc, Mathematics Department
     institution: UC Santa Barbara
     year: 2022-2023
+  - course: NSF MPS-Ascend Postdoctoral Fellow
+    institution: Southern Methodist University
+    year: 2023-2024
 
 
 # Social/Academic Networking
@@ -44,9 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: globe-americas
-#  icon_pack: fas
-#  link: https://web.njit.edu/~ja374
+- icon: globe-americas
+  icon_pack: fas
+  link: https://search.asu.edu/profile/5123395
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jadriazola@mail.smu.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -74,4 +77,4 @@ email: ""
 user_groups:
 - "Ph.D. Alumni"
 ---
-Jimmie's dissertation research focuses on the application of methods of optimal control to designing structures for the control of nonlinear waves in optics and BEC's. He also works as a research assistant in the NJIT Physics Department with professors John Federici and Ian Gatley.
+Jimmie's dissertation research focused on the application of methods of optimal control to designing structures for the control of nonlinear waves in optics and BEC's. He also worked as a research assistant in the NJIT Physics Department with professors John Federici and Ian Gatley.
