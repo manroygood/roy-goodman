@@ -24,7 +24,7 @@ abstract: "We address the problem of reshaping light in the Schrödinger optics 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["optics"]
+tags: ["optics","optimal control"]
 categories: ["published"]
 featured: true
 
