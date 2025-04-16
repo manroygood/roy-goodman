@@ -22,7 +22,7 @@ publication_short: "QGLAB"
 abstract: "We describe QGLAB, a new MATLAB package for analyzing partial differential equations on quantum graphs. The software is built on the existing, object-oriented MATLAB directed-graph class, inheriting its structure and adding additional easy-to-use features. The package allows one to construct a quantum graph and accurately compute the spectrum of elliptic operators, solutions to Poisson problems, the linear and nonlinear time evolution of a variety of PDEs, the continuation of branches of steady states (including locating and switching branches at bifurcations) and more. It uses a unified framework to implement finite-difference and Chebyshev discretizations of differential operators on a quantum graph. For simplicity, the package overloads many built-in MATLAB functions to work on the class."
 
 # Summary. An optional shortened abstract.
-summary: "We describe QGLAB, a new MATLAB package for analyzing partial differential equations on quantum graphs."
+summary: "We describe QGLAB, a new MATLAB package for analyzing partial differential equations on quantum graphs. The supplementary material contains additional examples and a complete listing of user-callable functions."
 
 tags: ["Quantum graphs"]
 categories: ["published"]
@@ -34,7 +34,9 @@ links:
   - name: DOI
     url: "https://epubs.siam.org/doi/10.1137/23M1627729"
   - name: arXiv
-    url: "https://arxiv.org/abs/2401.00561"# - name: Follow
+    url: "https://arxiv.org/abs/2401.00561"
+  - name: "Supplementary Material"
+    url: QGLAB_supplementary.pdf
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
