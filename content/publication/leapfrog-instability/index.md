@@ -25,7 +25,7 @@ summary: "We show via analytical perturbation theory that the leapfrogging vorte
 
 categories: ["published"]
 tags: ["Vortices","Bifurcation"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
