@@ -16,8 +16,7 @@ role: Professor, Associate Chair for Graduate Studies, [Department of Mathematic
 organizations:
 - name: New Jersey Institute of Technology
   url: "https://www.njit.edu"
-- name: SIAM New York-New Jersey-Pennsylvania Section (SIAM-NNP) President
-  url: "https://sites.google.com/view/siam-nynjpa/home"
+
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:goodman@njit.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/manroygood
+  link: https://bsky.app/profile/manroygood.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0W8zeSMAAAAJ
@@ -66,11 +65,7 @@ social:
 - icon: diagram-project
   icon_pack: fas
   link: https://genealogy.math.ndsu.nodak.edu/id.php?id=33125
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cvGoodman.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,3 +78,5 @@ email: ""
 ---
 
 I am a professor in the Department of Mathematical Sciences at NJIT. My research applies methods of dynamical systems to (conservative, dispersive) nonlinear wave equations arising, for example, in optics and fluid mechanics. I am interested in dynamical and bifurcation phenomena, and I use techniques from Hamiltonian mechanics and perturbation theory, as well as extensive computations. My current research in vortex dynamics is supported by the NSF under [DMS-2206016](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2206016&HistoricalAwards=false).
+
+I led the effort to start the [SIAM New York-New Jersey-Pennsylvania Section (SIAM NNP)](https://sites.google.com/view/siam-nynjpa/home) and was its first president in 2023-2024. I have handed over the reins to a new leadership group.

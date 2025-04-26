@@ -33,14 +33,10 @@ content:
   office_hours:
     - 'Tuesday/Friday 2:50-3:50'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/manroygood'
     - icon: video
       icon_pack: fas
-      name: Personal Webex Room
-      link: 'https://njit.webex.com/meet/goodman'
+      name: Zoom Room
+      link: 'https://njit-edu.zoom.us/my/roygoodman?pwd=TndULzBoNGJ4UWNuaEdndmNWS2RoUT09'
 
 
 design:
