@@ -3,7 +3,7 @@
 
 title: "Markdown: A Writing Tool for Every Applied Mathematician's Toolbox"
 authors: ["admin"]
-date: 2020-05-01T22:12:48-05:00
+date: 2019-05-01T22:12:48-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,5 +32,5 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
   - name: Web
-    url: "https://sinews.siam.org/Details-Page/markdown-a-writing-tool-for-every-applied-mathematicians-toolbox"
+    url: "https://www.siam.org/publications/siam-news/articles/markdown-a-writing-tool-for-every-applied-mathematician-s-toolbox/"
 ---
