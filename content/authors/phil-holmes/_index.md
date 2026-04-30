@@ -4,7 +4,7 @@ title: Philip Holmes
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "phil-holmes"
+  - Name "phil-holmes"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Professor Emeritus
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton University
-  url: ""
+  - name: Princeton University
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -39,13 +39,13 @@ bio: ""
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:pholmes@math.princeton.edu # For a direct email link, use "mailto:test@example.org".
-- icon: globe-americas
-  icon_pack: fas
-  link: https://mae.princeton.edu/people/faculty/holmes
-    
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:pholmes@math.princeton.edu" # For a direct email link, use "mailto:test@example.org".
+  - icon: globe-americas
+    icon_pack: fas
+    link: "https://mae.princeton.edu/people/faculty/holmes"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,6 @@ email: ""
 #user_groups:
 #- Group 1
 #- Group 2
+
 ---
 

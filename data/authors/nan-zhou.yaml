@@ -1,0 +1,11 @@
+"schema": "hugoblox/author/v1"
+"slug": "nan-zhou"
+"name":
+  "display": "Nan Zhou (周南)"
+"role": "Graduate Student"
+"bio": "Nan is working on a bifurcation problem in Bose-Einstein Condensates."
+"affiliations":
+  - "name": "NJIT"
+    "url": "http://www.njit.edu"
+"interests":
+  - "Dynamical Systems and Bifurcations"

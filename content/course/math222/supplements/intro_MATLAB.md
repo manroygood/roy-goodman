@@ -3,7 +3,7 @@ title: "Supplement: Programming in MATLAB"
 linktitle: "MATLAB Programming"
 toc: true
 type: book
-date: "2020-8-7"
+date: "2020-08-07"
 lastmod: "2021-01-06T00:00:00Z"
 draft: false
 weight: 303

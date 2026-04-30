@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student
+role: Visiting Assistant Professor, [Ramapo College of New Jersey](www.ramapo.edu)
 
 # Organizations/Affiliations
 organizations:
-- name: NJIT
-  url: "http://www.njit.edu"
+- name: Ramapo College of New Jersey
+  url: "http://www.ramapo.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -33,6 +33,9 @@ education:
   - course: M.Sc. Applied Mathematics
     institution: National Institute of Technology, Warangal, Telangana, India
     year: 2017
+  - course: Ph.D. Mathematical Sciences
+    institution: New Jersey Institute of Technology
+    year: 2025
 
 
 # Social/Academic Networking
@@ -58,6 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Ph.D. Students"
+  - Ph.D. Alumni
+  
 ---
-Atul is working on vortex dynamics.
+Atul continues to work with Prof. Goodman on point vortex dynamics.

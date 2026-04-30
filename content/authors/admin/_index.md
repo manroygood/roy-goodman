@@ -14,7 +14,7 @@ role: Professor, Associate Chair for Graduate Studies, [Department of Mathematic
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
+- name: Department of Mathematical Sciences, New Jersey Institute of Technology
   url: "https://www.njit.edu"
 
 
@@ -25,7 +25,8 @@ bio: My research interests include dynamical systems and nonlinear waves, vortex
 interests:
 - Nonlinear Waves
 - Dynamical Systems
-- Computation
+- Asymptotics and Perturbation Methods
+- Scientific Computating
 
 education:
   courses:

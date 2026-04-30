@@ -1,0 +1,15 @@
+"schema": "hugoblox/author/v1"
+"slug": "me"
+"name":
+  "display": "Roy Goodman"
+"is_owner": true
+"role": "Professor, Associate Chair for Graduate Studies, [Department of Mathematical Sciences](https://math.njit.edu/)"
+"bio": "My research interests include dynamical systems and nonlinear waves, vortex dynamics, quantum graphs, and network inference"
+"affiliations":
+  - "name": "Department of Mathematical Sciences, New Jersey Institute of Technology"
+    "url": "https://www.njit.edu"
+"interests":
+  - "Nonlinear Waves"
+  - "Dynamical Systems"
+  - "Asymptotics and Perturbation Methods"
+  - "Scientific Computating"

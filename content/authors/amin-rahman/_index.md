@@ -4,7 +4,7 @@ title: Amin Rahman
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "amin-rahman"
+  - Name "amin-rahman"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Acting Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington
-  url: "http://faculty.washington.edu/arahman2/"
+  - name: University of Washington
+    url: "http://faculty.washington.edu/arahman2/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Amin did his undergrad and Ph.D. at NJIT. After he took the capstone class with me, he and two other students worked to turn that project into a research paper."
@@ -39,13 +39,13 @@ bio: "Amin did his undergrad and Ph.D. at NJIT. After he took the capstone class
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:amin.rahman@ttu.edu  # For a direct email link, use "mailto:test@example.org".
-- icon: globe-americas
-  icon_pack: fas
-  link: http://myweb.ttu.edu/aminrahm/
-    
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:amin.rahman@ttu.edu" # For a direct email link, use "mailto:test@example.org".
+  - icon: globe-americas
+    icon_pack: fas
+    link: "http://myweb.ttu.edu/aminrahm/"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,7 @@ email: ""
 #user_groups:
 #- Group 1
 #- Group 2
+
 ---
+
 Amin did his undergrad and Ph.D. at NJIT. After he took the capstone class with me, he and two other students worked to turn that project into a research paper.

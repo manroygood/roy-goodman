@@ -1,0 +1,12 @@
+"schema": "hugoblox/author/v1"
+"slug": "ellison-ogrady"
+"name":
+  "display": "Ellison O'Grady"
+"role": "PhD Student, NJIT"
+"bio": "Ellison is working with Professor Goodman on the chaotic scatterng of solitary waves"
+"affiliations":
+  - "name": "NJIT"
+    "url": "http://www.njit.edu"
+"interests":
+  - "Applied Math"
+  - "Chaotic Scattering"
