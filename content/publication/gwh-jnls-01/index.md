@@ -36,7 +36,7 @@ tags:
   - Nonlinear optics
 links:
   - name: Journal
-    url: http://www.springerlink.com/content/nxh3frkak564a1k9
+    url: https://doi.org/10.1007/s00332-001-0002-y
   - name: arXiv
     url: https://arxiv.org/abs/nlin/0012020
 ---

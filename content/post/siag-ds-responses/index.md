@@ -74,7 +74,7 @@ I like these but they don't fit the bill for big intro classes. This is just the
 
 * [matcont](https://sourceforge.net/projects/matcont/) MATLAB package for continuation and bifurcation in discrete and continuous systems. I have used this in my own research and in a graduate class. Highly recommended
 * [Julia](https://julialang.org) I've been meaning to learn Julia for years! Somehow it always seems easier to stick with MATLAB. In particular, Isaia Nisoli pointed out [this idea](https://discourse.julialang.org/t/plotting-a-phase-portrait-of-a-differential-equation/29208/8).
-* [Chebfun](https://chebfun.org) from Nick Trefethen and company in Oxford. 
+* [Chebfun](http://www.chebfun.org) from Nick Trefethen and company in Oxford. 
 * [PyDSTool](https://pydstool.github.io) is a nice program that is no longer in active development, h/t John Tyson
 * [Brain Dynamics Toolbox](https://bdtoolbox.org/), from Stuart Heitmann, is an open MATLAB toolbox for simulating dynamical systems and plotting phase planes etc. It was designed for computational neuroscience but can be applied to dynamical systems in any domain (ODEs, SDEs, DDEs, PDEs). Students can implement their own models (often less than 100 lines of code) and run them in the graphical interface without any graphical programming effort. The latest version uses the modern MATLAB uitools graphical interface. It requires matlab R2019b or newer.
 * [XPP](https://sites.pitt.edu/~phase/bard/bardware/xpp/xpp.html) from Bard Ermentrout, remains very popular.
