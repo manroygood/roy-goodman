@@ -140,7 +140,7 @@ Some reasons to have a style guide are for consistency and to conform to profess
 
 #### Overleaf
 
-Do not email documents back and forth. Do not create a sequence of documents named `document1.tex`, `document2.tex`, etc. This can only lead to mistakes. Online tools such as [Overleaf](overleaf.com) handle shared documents much more elegantly. 
+Do not email documents back and forth. Do not create a sequence of documents named `document1.tex`, `document2.tex`, etc. This can only lead to mistakes. Online tools such as [Overleaf](https://overleaf.com) handle shared documents much more elegantly. 
 
 If you prefer to edit locally, then set up Dropbox integration under Account $\rightarrow$​ Account settings on Overleaf. Edit on your personal device. Syncing isn't instantaneous, but prevents versioning Hell. Sadly, this requires a premium or institutional Overleaf account.
 

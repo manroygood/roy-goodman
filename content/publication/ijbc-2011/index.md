@@ -11,8 +11,7 @@ publication_types:
 abstract: We describe an efficient and accurate numerical method for computing
   smooth approximations to invariant manifolds of planar maps, based on
   geometric modeling ideas from Computer Aided Geometric Design (CAGD). The
-  unstable manifold of a hyperbolic fixed point is modeled by a piecewise B
-  ́ezier interpolant (a Catmull–Rom spline) and properties of such curves are
+  unstable manifold of a hyperbolic fixed point is modeled by a piecewise Bézier interpolant (a Catmull–Rom spline) and properties of such curves are
   used to define a rule for adaptively adding points to ensure that the
   approximation resolves the manifold to within a specified tolerance. Numerical
   tests on a variety of example mappings demonstrate that the new method
@@ -27,7 +26,7 @@ tags:
   - Invariant manifold computation
 links:
   - name: Journal
-    url: http://www.worldscinet.com/ijbc/21/2107/S0218127411029604.html
+    url: https://doi.org/10.1142/S0218127411029604
 ---
 
 Part 1 of Jacek Wróbel's dissertation.

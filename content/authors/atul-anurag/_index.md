@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Visiting Assistant Professor, [Ramapo College of New Jersey](www.ramapo.edu)
+role: Visiting Assistant Professor, [Ramapo College of New Jersey](https://www.ramapo.edu)
 
 # Organizations/Affiliations
 organizations:
 - name: Ramapo College of New Jersey
-  url: "http://www.ramapo.edu"
+  url: "https://www.ramapo.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

@@ -3,7 +3,7 @@
 
 title: "Leapfrogging Vortex Pairs: Linear Stability, Nonlinear Dynamics, and Escape"
 event: CMS Winter Meeting
-event_url: https://winter19.cms.math.ca
+event_url: https://www2.cms.math.ca/Events/winter19/sessions_scientific
 location: Toronto, ON
 address:
   street:

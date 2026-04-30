@@ -22,9 +22,8 @@ categories:
 featured: false
 math: true
 publication: "*Physical Review E*"
-url_journal: http://prola.aps.org/abstract/PRE/v52/i6/p5904_1
 links:
   - name: Journal
-    url: http://prola.aps.org/abstract/PRE/v52/i6/p5904_1
+    url: https://doi.org/10.1103/PhysRevE.52.5904
 ---
 

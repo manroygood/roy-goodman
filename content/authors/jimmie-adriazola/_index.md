@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Presidential Postdoctoral Fellow, [Arizona State University](www.asu.edu)
+role: Presidential Postdoctoral Fellow, [Arizona State University](https://www.asu.edu)
 
 # Organizations/Affiliations
 organizations:

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Acting Instructor
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Washington
-    url: "http://faculty.washington.edu/arahman2/"
+  - name: ReynKo Inc
+    url: "https://pilotwaves.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Amin did his undergrad and Ph.D. at NJIT. After he took the capstone class with me, he and two other students worked to turn that project into a research paper."

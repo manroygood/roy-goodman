@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Member of Technical Staff, [Draper Laboratories](http://www.draper.com)"
+role: "Member of Technical Staff, [Draper Laboratories](https://www.draper.com)"
 
 # Organizations/Affiliations
 organizations:
   - name: Draper Laboratories
-    url: "http://www.draper.com"
+    url: "https://www.draper.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jacek is a simulation engineer at Draper Labs in Cambridge, MA.

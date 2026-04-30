@@ -37,4 +37,4 @@ links:
 ---
 
 
-For more about NJIT's applied math capstone class, see <a href="http://math.njit.edu/research/resources/nsf-capstone.php"> here.</a>
+For more about NJIT's applied math capstone class, see <a href="https://cfsm.njit.edu/capstone/index.php"> here.</a>

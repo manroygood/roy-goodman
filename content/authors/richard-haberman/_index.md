@@ -41,7 +41,7 @@ bio:
 social:
   - icon: globe-americas
     icon_pack: fas
-    link: "http://faculty.smu.edu/rhaberma/"
+    link: "https://s3.smu.edu/des/registrar/retiredfaculty/?a=bio&pid=49&name=Richard%20Haberman"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

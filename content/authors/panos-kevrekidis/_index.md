@@ -15,7 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Massachusetts
-    url: ""
+    url: "https://www.umass.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -44,7 +44,7 @@ social:
     link: "mailto:kevrekid@math.umass.edu" # For a direct email link, use "mailto:test@example.org".
   - icon: globe-americas
     icon_pack: fas
-    link: "https://people.math.umass.edu/~kevrekid/"
+    link: "https://websites.umass.edu/kevrekid/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

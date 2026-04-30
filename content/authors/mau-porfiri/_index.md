@@ -15,7 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
   - name: New York University
-    url: "http://faculty.poly.edu/~mporfiri/"
+    url: "https://wp.nyu.edu/dsl/maurizio-porfiri/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -44,7 +44,7 @@ social:
     link: "mailto:mporfiri@nyu.edu" # For a direct email link, use "mailto:test@example.org".
   - icon: globe-americas
     icon_pack: fas
-    link: "http://faculty.poly.edu/~mporfiri/"
+    link: "https://wp.nyu.edu/dsl/maurizio-porfiri/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
