@@ -1,7 +1,7 @@
 ---
 title: Transition to instability of the leapfrogging vortex quartet
 authors:
-  - me
+  - admin
   - brandon
 date: 2023-02-09T13:30:53-04:00
 publishDate: null

@@ -2,7 +2,7 @@
 title: Efficient Manipulation of Bose-Einstein Condensates in a Double-Well Potential
 authors:
   - jimmie-adriazola
-  - me
+  - admin
   - panos-kevrekidis
 date: 2022-06-08T08:43:35-04:00
 doi: null

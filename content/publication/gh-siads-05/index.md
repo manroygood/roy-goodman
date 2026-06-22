@@ -4,7 +4,7 @@ title: "Kink-antikink collisions in the $\\phi^4$ equation: The $n$-bounce
 date: 2005-01-01
 publishDate: 2019-10-22T02:16:16.058556Z
 authors:
-  - me
+  - admin
   - richard-haberman
 publication_types:
   - article-journal

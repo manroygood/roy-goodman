@@ -4,7 +4,7 @@ title: Topological features determining the error in the inference of networks
 date: 2019-10-31
 publishDate: 2019-10-22T02:16:16.044602Z
 authors:
-  - me
+  - admin
   - mau-porfiri
 publication_types:
   - article-journal

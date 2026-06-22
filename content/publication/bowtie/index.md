@@ -4,7 +4,7 @@ title: NLS bifurcations on the bowtie combinatorial graph and the dumbbell
 date: 2019-01-01
 publishDate: 2019-10-22T02:16:16.048361Z
 authors:
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: We consider the bifurcations of standing wave solutions to the

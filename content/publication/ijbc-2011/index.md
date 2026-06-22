@@ -4,7 +4,7 @@ title: High-Order Bisection Method for Computing Invariant Manifolds of
 date: 2011-01-01
 publishDate: 2019-10-22T02:16:16.053430Z
 authors:
-  - me
+  - admin
   - Jacek Wróbel
 publication_types:
   - article-journal

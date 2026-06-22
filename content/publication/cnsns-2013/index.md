@@ -5,7 +5,7 @@ date: 2013-01-01
 publishDate: 2019-10-22T02:16:16.051968Z
 authors:
   - Jacek Wróbel
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: An efficient and accurate numerical method is presented for computing

@@ -4,7 +4,7 @@ date: 1995-01-01
 markup: md
 publishDate: 2019-10-22T02:16:16.064772Z
 authors:
-  - me
+  - admin
   - David Graff
   - Leonard Sander
   - Patrick Leroux-Hugon

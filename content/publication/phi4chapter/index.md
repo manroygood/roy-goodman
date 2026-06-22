@@ -4,7 +4,7 @@ title: Mathematical Analysis of Fractal Kink-Antikink Collisions in the
 date: 2019-01-01
 publishDate: 2019-10-22T02:16:16.046150Z
 authors:
-  - me
+  - admin
 publication_types:
   - chapter
 abstract: We analyze the fractal structure seen in kink-antikink collisions of

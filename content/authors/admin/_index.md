@@ -27,6 +27,7 @@ interests:
 - Dynamical Systems
 - Asymptotics and Perturbation Methods
 - Scientific Computating
+- Point Vortices
 
 education:
   courses:

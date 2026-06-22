@@ -3,7 +3,7 @@ title: Bifurcations of relative periodic orbits in NLS/GP with a triple-well pot
 date: 2017-01-01
 publishDate: 2019-10-22T02:16:16.049082Z
 authors:
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: The nonlinear Schrödinger/Gross--Pitaevskii (NLS/GP) equation is

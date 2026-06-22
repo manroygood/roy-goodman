@@ -20,7 +20,7 @@ Date: 2016-11-01T14:00:00-06:00
 all_day: false
 publishDate: 2020-02-16T14:44:29-05:00
 authors:
-  - me
+  - admin
 tags: []
 featured: true
 image:

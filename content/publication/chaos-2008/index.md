@@ -4,7 +4,7 @@ title: "Chaotic scattering in solitary wave interactions: A singular
 date: 2008-01-01
 publishDate: 2019-10-22T02:16:16.055734Z
 authors:
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: We derive a family of singular iterated maps---closely related to

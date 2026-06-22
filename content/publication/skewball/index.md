@@ -4,7 +4,7 @@ title: "A Mechanical Analog of the Two-Bounce Resonance of Solitary Waves:
 date: 2015-01-01
 publishDate: 2019-10-22T02:16:16.049671Z
 authors:
-  - me
+  - admin
   - amin-rahman
   - Michael Bellanich
   - Catherine Morrison

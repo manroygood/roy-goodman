@@ -2,7 +2,7 @@
 title: An Optimal Control Approach to Gradient-Index Design for Beam Reshaping
 authors:
   - jimmie-adriazola
-  - me
+  - admin
 date: 2021-12-02T09:35:30-05:00
 doi: ""
 publishDate: 2021-12-02T09:35:30-05:00

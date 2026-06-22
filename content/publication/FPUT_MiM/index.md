@@ -2,7 +2,7 @@
 title: Solitary Waves in Mass-in-Mass Lattices
 authors:
   - tim-faver
-  - me
+  - admin
   - doug-wright
 date: 2020-11-04T18:46:43-05:00
 doi: ""

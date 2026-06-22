@@ -3,7 +3,7 @@ title: Stability and instability of nonlinear defect states in the coupled mode
   equations---analytical and numerical study
 date: 2008-01-01
 authors:
-  - me
+  - admin
   - michael-weinstein
 publication_types:
   - article-journal

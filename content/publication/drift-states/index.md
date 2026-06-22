@@ -5,7 +5,7 @@ publishDate: 2019-10-22T02:16:16.047690Z
 authors:
   - Adilbek Kairzhan
   - dmitry-pelinovsky
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: When the coefficients of the cubic terms match the coefficients in the

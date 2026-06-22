@@ -14,7 +14,7 @@ date_end: 2020-04-14T12:40:00-05:00
 all_day: false
 publishDate: 2020-02-15T16:09:48-05:00
 authors:
-  - me
+  - admin
 tags: []
 featured: true
 image:

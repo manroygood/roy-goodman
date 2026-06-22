@@ -3,7 +3,7 @@ title: Vector soliton interactions in birefringent optical fibers
 date: 2005-01-01
 publishDate: 2019-10-22T02:16:16.057879Z
 authors:
-  - me
+  - admin
   - richard-haberman
 publication_types:
   - article-journal

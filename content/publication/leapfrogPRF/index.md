@@ -4,7 +4,7 @@ date: 2019-12-26
 publishDate: 2019-12-26
 authors:
   - brandon
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: We investigate the stability of a one-parameter family of periodic

@@ -7,7 +7,7 @@ authors:
   - yuan-young
   - Jerzy Bławzdziewicz
   - Vittorio Cristini
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: We investigate nonlinear phenomena in dispersed two-phase systems

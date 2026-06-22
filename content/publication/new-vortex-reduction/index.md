@@ -3,7 +3,7 @@ title: A new canonical reduction of three-vortex motion and its application to
   vortex-dipole scattering
 authors:
   - atul-anurag
-  - me
+  - admin
   - ellison-ogrady
 date: 2024-06-06
 doi: 10.1063/5.0208538

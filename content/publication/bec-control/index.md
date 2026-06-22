@@ -2,7 +2,7 @@
 title: A Reduction-Based Strategy for Optimal Control of Bose-Einstein Condensates
 authors:
   - jimmie-adriazola
-  - me
+  - admin
 date: 2022-02-28T09:35:18-05:00
 doi: ""
 publishDate: 2022-02-28T09:35:18-05:00

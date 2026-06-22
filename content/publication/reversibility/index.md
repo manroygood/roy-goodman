@@ -5,7 +5,7 @@ publishDate: 2020-04-17T02:16:16.046864Z
 authors:
   - amir-sagiv
   - Adi Ditkowski
-  - me
+  - admin
   - gadi-fibich
 publication_types:
   - article-journal

@@ -3,7 +3,7 @@ title: Stopping Light on a Defect
 date: 2002-01-01
 publishDate: 2019-10-22T02:16:16.062076Z
 authors:
-  - me
+  - admin
   - Richart Slusher
   - michael-weinstein
 publication_types:

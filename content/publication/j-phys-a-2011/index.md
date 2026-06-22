@@ -3,7 +3,7 @@ title: Hamiltonian Hopf bifurcations and dynamics of NLS/GP standing-wave modes
 date: 2011-01-01
 publishDate: 2019-10-22T02:16:16.052705Z
 authors:
-  - me
+  - admin
 publication_types:
   - article-journal
 abstract: We examine the dynamics of solutions to nonlinear Schrödinger/Gross--

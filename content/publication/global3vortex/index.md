@@ -2,7 +2,7 @@
 title: Phase portraits and the bifurcation set for the three-vortex interaction system
 authors:
   - atul-anurag
-  - me
+  - admin
 date: 2025-04-22T21:36:37-04:00
 doi: ""
 publishDate: 2025-04-22T21:36:37-04:00

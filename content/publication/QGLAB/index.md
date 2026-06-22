@@ -1,7 +1,7 @@
 ---
 title: "QGLAB: A MATLAB Package for Computations on Quantum Graphs"
 authors:
-  - me
+  - admin
   - gracie-conte
   - jeremy-marzuola
 date: 2025-03-31T21:57:07-05:00
