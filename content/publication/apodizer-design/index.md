@@ -34,7 +34,7 @@ tags:
   - Optimal control
 categories:
   - published
-featured: true
+featured: false
 url_pdf: null
 url_code: null
 url_dataset: null
