@@ -48,7 +48,7 @@ social:
   link: 'mailto:goodman@njit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/manroygood.bsky.social
+  link: https://bsky.app/profile/roygoodman.net
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0W8zeSMAAAAJ
